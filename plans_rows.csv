@@ -3723,25 +3723,25 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3825,C.A.M.P,Decorations,Misc. Structures,Susan’s Floral Secrets,Event: Big Bloom,true
 3826,C.A.M.P,Utilities,Food,Critter Cooker,Sold By Samuel (Cautious),false
 3827,C.A.M.P,Utilities,Food,Slime Cake,Sold By Samuel (Cautious),false
-3828,C.A.M.P,Decorations,Floor Decor,Eel in a Bottle,Daily Quest,true
-3829,C.A.M.P,Building,Lights,Drowned Signal Lantern,Daily Quest,true
-3830,C.A.M.P,Building,Lights,Drowned Box Lamp,Daily Quest,true
-3831,C.A.M.P,Building,Lights,Drowned Flood Light,Daily Quest,true
-3832,C.A.M.P,Decorations,Displays,Fishing Rod Display,Daily Quest,true
-3833,C.A.M.P,Furniture,Tables,Drowned Coffee Table,Daily Quest,true
-3834,C.A.M.P,Furniture,Tables,Drowned Presidential Desk,Daily Quest,true
-3835,C.A.M.P,Furniture,Tables,Drowned Fancy Desk,Daily Quest,true
-3836,C.A.M.P,Furniture,Appliances,Chum Trough,Daily Quest,true
-3837,C.A.M.P,Furniture,Chairs,Drowned Chesterfield Sofa,Daily Quest,true
-3838,C.A.M.P,Furniture,Chairs,Drowned CHesterfield Chair,Daily Quest,true
-3839,Recipes,Consumables,Food,Fish and Tatos,Daily Quest,true
-3840,Recipes,Consumables,Food,Fish Chowder,Daily Quest,true
-3841,Mods,Tools,Fishing Rod,Attractive Hook,Daily Quest,true
-3842,Mods,Tools,Fishing Rod,Improved Bearing,Daily Quest,true
-3843,Mods,Tools,Fishing Rod,Advanced Drag,Daily Quest,true
-3844,Mods,Tools,Fishing Rod,Stabilized Gear Ratio,Daily Quest,true
-3845,Mods,Tools,Fishing Rod,Steady Handle,Daily Quest,true
-3846,C.A.M.P,Decorations,Displays,Curved Fish Display,Daily Quest,true
+3828,C.A.M.P,Decorations,Floor Decor,Eel in a Bottle,Daily: Big Fish in a Small Pond,true
+3829,C.A.M.P,Building,Lights,Drowned Signal Lantern,Daily: Big Fish in a Small Pond,true
+3830,C.A.M.P,Building,Lights,Drowned Box Lamp,Daily: Big Fish in a Small Pond,true
+3831,C.A.M.P,Building,Lights,Drowned Flood Light,Daily: Big Fish in a Small Pond,true
+3832,C.A.M.P,Decorations,Displays,Fishing Rod Display,Daily: Big Fish in a Small Pond,true
+3833,C.A.M.P,Furniture,Tables,Drowned Coffee Table,Daily: Big Fish in a Small Pond,true
+3834,C.A.M.P,Furniture,Tables,Drowned Presidential Desk,Daily: Big Fish in a Small Pond,true
+3835,C.A.M.P,Furniture,Tables,Drowned Fancy Desk,Daily: Big Fish in a Small Pond,true
+3836,C.A.M.P,Furniture,Appliances,Chum Trough,Daily: Big Fish in a Small Pond,true
+3837,C.A.M.P,Furniture,Chairs,Drowned Chesterfield Sofa,Daily: Big Fish in a Small Pond,true
+3838,C.A.M.P,Furniture,Chairs,Drowned CHesterfield Chair,Daily: Big Fish in a Small Pond,true
+3839,Recipes,Consumables,Food,Fish and Tatos,Daily: Big Fish in a Small Pond,true
+3840,Recipes,Consumables,Food,Fish Chowder,Daily: Big Fish in a Small Pond,true
+3841,Mods,Tools,Fishing Rod,Attractive Hook,Daily: Big Fish in a Small Pond,true
+3842,Mods,Tools,Fishing Rod,Improved Bearing,Daily: Big Fish in a Small Pond,true
+3843,Mods,Tools,Fishing Rod,Advanced Drag,Daily: Big Fish in a Small Pond,true
+3844,Mods,Tools,Fishing Rod,Stabilized Gear Ratio,Daily: Big Fish in a Small Pond,true
+3845,Mods,Tools,Fishing Rod,Steady Handle,Daily: Big Fish in a Small Pond,true
+3846,C.A.M.P,Decorations,Displays,Curved Fish Display,Daily: Big Fish in a Small Pond,true
 3847,Recipes,Consumables,Food,Grilled Fish,Quest: Casting Off,false
 3848,Mods,Tools,Fishing Rod,Mark 1 Reel,Tiered Challenge,false
 3849,Mods,Tools,Fishing Rod,Mark 2 Reel,Tiered Challenge,false
