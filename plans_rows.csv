@@ -3711,7 +3711,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3813,C.A.M.P,Decorations,Misc. Structures,Cosmic Capture,Event: Invaders From Beyond,true
 3814,C.A.M.P,Decorations,Misc. Structures,Company Tea Machine,Sold by Mortimer (Cautious),true
 3815,Paints,,Ranged Weapons,Shattered Grounds Handmade Paint,Sold by Regs,true
-3816,Weapons,,Melee,Garden Trowel Knife
+3816,Weapons,,Melee,Garden Trowel Knife,Event: Big Bloom,true
 3817,C.A.M.P,Decorations,Misc. Structures,Honey Beast Flower Display,Event: Big Bloom,true
 3818,C.A.M.P,Decorations,Misc. Structures,Honey Beast Tube,Event: Big Bloom,true
 3819,C.A.M.P,Decorations,Misc. Structures,Large Glazed Pot,Event: Big Bloom,true
