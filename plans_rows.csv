@@ -2305,12 +2305,12 @@ plan_id,item_type,item_name,section,name,location,obtainable
 2380,Mods,Ranged Weapons,Missile Launcher,Missile Launcher Targeting Computer,"Sold by: Ash Heap, Cranberry Bog, & Mire Vendors",true
 2381,Mods,Ranged Weapons,Missile Launcher,Bayonet,Learn from scrapping: Missile Launcher,true
 2382,Mods,Ranged Weapons,Missile Launcher,Stabilizer,Learn from scrapping: Missile Launcher,true
-2383,Mods,Ranged Weapons,Pepper Shaker,Pepper Shaker Dual Barrel,"Sold by Mortimer (Ally), Samuel (Ally) &, Regs",true
-2384,Mods,Ranged Weapons,Pepper Shaker,Pepper Shaker Hex Barrel,"Sold by Mortimer (Ally), Samuel (Ally) &, Regs",true
-2385,Mods,Ranged Weapons,Pepper Shaker,Pepper Shaker Single Barrel,"Sold by Mortimer (Ally), Samuel (Ally) &, Regs",true
+2383,Mods,Ranged Weapons,Pepper Shaker,Pepper Shaker Dual Barrel,"Sold by Mortimer (Ally), Samuel (Ally), & Regs",true
+2384,Mods,Ranged Weapons,Pepper Shaker,Pepper Shaker Hex Barrel,"Sold by Mortimer (Ally), Samuel (Ally), & Regs",true
+2385,Mods,Ranged Weapons,Pepper Shaker,Pepper Shaker Single Barrel,"Sold by Mortimer (Ally), Samuel (Ally), & Regs",true
 2386,Mods,Ranged Weapons,Pepper Shaker,Pepper Shaker Laser Magazine,"Sold by Mortimer (Ally), Samuel (Ally &), Regs",true
-2387,Mods,Ranged Weapons,Pepper Shaker,Pepper Shaker Plasma Magazine,"Sold by Mortimer (Ally), Samuel (Ally) &, Regs",true
-2388,Mods,Ranged Weapons,Pepper Shaker,Pepper Shaker Gunner Sight,"Sold by Mortimer (Ally), Samuel (Ally) &, Regs",true
+2387,Mods,Ranged Weapons,Pepper Shaker,Pepper Shaker Plasma Magazine,"Sold by Mortimer (Ally), Samuel (Ally), & Regs",true
+2388,Mods,Ranged Weapons,Pepper Shaker,Pepper Shaker Gunner Sight,"Sold by Mortimer (Ally), Samuel (Ally), & Regs",true
 2389,Mods,Ranged Weapons,Pipe Bolt-Action,Pipe Bolt-Action .38 Receiver,Sold by: Savage Divide & Toxic Valley Vendors,true
 2390,Mods,Ranged Weapons,Pipe Bolt-Action,Calibrated Receiver,Learn from scrapping: Pipe Bolt-Action,true
 2391,Mods,Ranged Weapons,Pipe Bolt-Action,Pipe Bolt-Action Critical .38 Receiver,Sold by: Savage Divide & Toxic Valley Vendors,true
