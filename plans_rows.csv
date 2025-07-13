@@ -3329,7 +3329,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3418,Clothing,Accessories,Outfits,Burnt Vault Lab Coat,Event: Dangerous Pastimes,true
 3419,C.A.M.P,Decorations,Misc. Structures,Lightning Harvester,Event: Dangerous Pastimes,true
 3420,C.A.M.P,Decorations,Misc. Structures,Lost Tube,Event: Dangerous Pastimes,true
-3421,C.A.M.P,Decorations,Misc. Structures,Moe the Mole Safety Cutout,Event: Dangerous Pastimes,false
+3421,C.A.M.P,Decorations,Misc. Structures,Moe the Mole Safety Cutout,Event: Dangerous Pastimes,true
 3422,Clothing,Accessories,Outfits,Shenandoah T-Shirt & Jeans,Event: Dangerous Pastimes,true
 3423,Clothing,Accessories,Headwear,Vault 63 Recon Helmet Burnt,Event: Dangerous Pastimes,true
 3424,Clothing,Accessories,Outfits,Vault 63 Recon Outfit Burnt,Event: Dangerous Pastimes,true
@@ -3721,8 +3721,8 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3823,C.A.M.P,Decorations,Misc. Structures,Pot o’ Radlily,Event: Big Bloom,true
 3824,C.A.M.P,Decorations,Misc. Structures,Small Glazed Pot,Event: Big Bloom,true
 3825,C.A.M.P,Decorations,Misc. Structures,Susan’s Floral Secrets,Event: Big Bloom,true
-3826,C.A.M.P,Utilities,Food,Critter Cooker,Sold By Samuel (Cautious),false
-3827,C.A.M.P,Utilities,Food,Slime Cake,Sold By Samuel (Cautious),false
+3826,C.A.M.P,Utilities,Food,Critter Cooker,Sold By Samuel (Cautious),true
+3827,C.A.M.P,Utilities,Food,Slime Cake,Sold By Samuel (Cautious),true
 3828,C.A.M.P,Decorations,Floor Decor,Eel in a Bottle,Daily: Big Fish in a Small Pond,true
 3829,C.A.M.P,Building,Lights,Drowned Signal Lantern,Daily: Big Fish in a Small Pond,true
 3830,C.A.M.P,Building,Lights,Drowned Box Lamp,Daily: Big Fish in a Small Pond,true
@@ -3742,29 +3742,29 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3844,Mods,Tools,Fishing Rod,Stabilized Gear Ratio,Daily: Big Fish in a Small Pond,true
 3845,Mods,Tools,Fishing Rod,Steady Handle,Daily: Big Fish in a Small Pond,true
 3846,C.A.M.P,Decorations,Displays,Curved Fish Display,Daily: Big Fish in a Small Pond,true
-3847,Recipes,Consumables,Food,Grilled Fish,Quest: Casting Off,false
-3848,Mods,Tools,Fishing Rod,Mark 1 Reel,Tiered Challenge,false
-3849,Mods,Tools,Fishing Rod,Mark 2 Reel,Tiered Challenge,false
-3850,Mods,Tools,Fishing Rod,Mark 3 Reel,Tiered Challenge,false
-3851,Mods,Tools,Fishing Rod,Mark 4 Reel,Tiered Challenge,false 
-3852,C.A.M.P,Decorations,Floor Decor,Angler Plushie,Fishing Challenge Reward,false
-3853,C.A.M.P,Decorations,Floor Decor,Crab Boat Plushie,Fishing Challenge Reward,false
-3854,Mods,Tools,Fishing Rod,Crimson Stripe Float,Fishing Challenge Reward,false
-3855,Mods,Tools,Fishing Rod,Festive Float,Fishing Challenge Reward,false
-3856,C.A.M.P,Decorations,Displays,Fish Display Plaque,Fishing Challenge Reward,false
-3857,C.A.M.P,Utilities,Crafting,Fishermans Cooking Station,Fishing Challenge Reward,false
-3858,Mods,Tools,Fishing Rod,Flamewood Float,Fishing Challenge Reward,false
-3859,C.A.M.P,Decorations,Wall Decor,Kelp Curtain,Fishing Challenge Reward,false
-3860,Utilities,,Fishing Rod,Makeshift Rod,Fishing Challenge Reward,false
-3861,C.A.M.P,Decorations,Floor Decor,Mirelurk Plushie,Fishing Challenge Reward,false
-3862,Mods,Tools,Fishing Rod,Pin Bobber,Fishing Challenge Reward,false
-3863,Mods,Tools,Fishing Rod,Quantum Bobber,Fishing Challenge Reward,false
-3864,C.A.M.P,Building,Lights,Reclaimed Ship Chandelier,Fishing Challenge Reward,false
-3865,Mods,Tools,Fishing Rod,Red Tide Float,Fishing Challenge Reward,false
-3866,Mods,Tools,Fishing Rod,Rocket Bobber,Fishing Challenge Reward,false
-3867,Clothing,Backpack,Material,Scuba Tank Backpack,Fishing Challenge Reward,false
-3868,Mods,Tools,Fishing Rod,Skyfire Float,Fishing Challenge Reward,false
-3869,Mods,Tools,Fishing Rod,Twin Timber Float,Fishing Challenge Reward,false
+3847,Recipes,Consumables,Food,Grilled Fish,Quest: Casting Off,true
+3848,Mods,Tools,Fishing Rod,Mark 1 Reel,Tiered Challenge,true
+3849,Mods,Tools,Fishing Rod,Mark 2 Reel,Tiered Challenge,true
+3850,Mods,Tools,Fishing Rod,Mark 3 Reel,Tiered Challenge,true
+3851,Mods,Tools,Fishing Rod,Mark 4 Reel,Tiered Challenge,true
+3852,C.A.M.P,Decorations,Floor Decor,Angler Plushie,Fishing Challenge Reward,true
+3853,C.A.M.P,Decorations,Floor Decor,Crab Boat Plushie,Fishing Challenge Reward,true
+3854,Mods,Tools,Fishing Rod,Crimson Stripe Float,Fishing Challenge Reward,true
+3855,Mods,Tools,Fishing Rod,Festive Float,Fishing Challenge Reward,true
+3856,C.A.M.P,Decorations,Displays,Fish Display Plaque,Fishing Challenge Reward,true
+3857,C.A.M.P,Utilities,Crafting,Fishermans Cooking Station,Fishing Challenge Reward,true
+3858,Mods,Tools,Fishing Rod,Flamewood Float,Fishing Challenge Reward,true
+3859,C.A.M.P,Decorations,Wall Decor,Kelp Curtain,Fishing Challenge Reward,true
+3860,Utilities,,Fishing Rod,Makeshift Rod,Fishing Challenge Reward,true
+3861,C.A.M.P,Decorations,Floor Decor,Mirelurk Plushie,Fishing Challenge Reward,true
+3862,Mods,Tools,Fishing Rod,Pin Bobber,Fishing Challenge Reward,true
+3863,Mods,Tools,Fishing Rod,Quantum Bobber,Fishing Challenge Reward,true
+3864,C.A.M.P,Building,Lights,Reclaimed Ship Chandelier,Fishing Challenge Reward,true
+3865,Mods,Tools,Fishing Rod,Red Tide Float,Fishing Challenge Reward,true
+3866,Mods,Tools,Fishing Rod,Rocket Bobber,Fishing Challenge Reward,true
+3867,Clothing,Backpack,Material,Scuba Tank Backpack,Fishing Challenge Reward,true
+3868,Mods,Tools,Fishing Rod,Skyfire Float,Fishing Challenge Reward,true
+3869,Mods,Tools,Fishing Rod,Twin Timber Float,Fishing Challenge Reward,true
 3870,C.A.M.P,Furniture,Appliances,Weather Control Station (Atlantic City Fog),Sold by Samuel (Cautious),true
 3871,C.A.M.P,Utilities,Resources,Brewing Vat,Sold by Samuel (Cautious),true
 3872,Clothing,Accessories,Headwear,Flower Crown - Candykill,Event: Big Bloom,true
