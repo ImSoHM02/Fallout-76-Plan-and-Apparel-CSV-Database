@@ -54,7 +54,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 53,Armor,Power Armor,Strangler,Strangler Heart Left Arm,"Sold by Regs & Minerva (Lists 2, 4, 18, & 20)",true
 54,Armor,Power Armor,Strangler,Strangler Heart Left Leg,"Sold by Regs & Minerva (Lists 2, 4, 18, & 20)",true
 55,Armor,Power Armor,Strangler,Strangler Heart Right Arm,"Sold by Regs & Minerva (Lists 2, 4, 18, & 20)",true
-56,Armor,Power Armor,Strangler,Strangler Heart RIght Leg,"Sold by Regs & Minerva (Lists 2, 4, 18, & 20)",true
+56,Armor,Power Armor,Strangler,Strangler Heart Right Leg,"Sold by Regs & Minerva (Lists 2, 4, 18, & 20)",true
 57,Armor,Power Armor,T-45,T-45 Helmet,Event: Test Your Metal,true
 58,Armor,Power Armor,T-45,T-45 Torso,Event: Test Your Metal,true
 59,Armor,Power Armor,T-45,T-45 Left Arm,Event: Test Your Metal,true
@@ -66,7 +66,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 65,Armor,Power Armor,T-51b,T-51b Left Arm,Event: Test Your Metal,true
 66,Armor,Power Armor,T-51b,T-51b Left Leg,Event: Test Your Metal,true
 67,Armor,Power Armor,T-51b,T-51b Right Arm,Event: Test Your Metal,true
-68,Armor,Power Armor,T-51b,T-51b RIght Leg,Event: Test Your Metal,true
+68,Armor,Power Armor,T-51b,T-51b Right Leg,Event: Test Your Metal,true
 69,Armor,Power Armor,T-60,T-60 Helmet,Event: Distant Thunder | Treasure Maps: Ash Heap & Cranberry Bog,true
 70,Armor,Power Armor,T-60,T-60 Chest Piece,Event: Distant Thunder | Treasure Maps: Ash Heap & Cranberry Bog,true
 71,Armor,Power Armor,T-60,T-60 Left Arm,Event: Distant Thunder | Treasure Maps: Ash Heap & Cranberry Bog,true
@@ -3733,7 +3733,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3835,C.A.M.P,Furniture,Tables,Drowned Fancy Desk,Daily: Big Fish in a Small Pond,true
 3836,C.A.M.P,Furniture,Appliances,Chum Trough,Daily: Big Fish in a Small Pond,true
 3837,C.A.M.P,Furniture,Chairs,Drowned Chesterfield Sofa,Daily: Big Fish in a Small Pond,true
-3838,C.A.M.P,Furniture,Chairs,Drowned CHesterfield Chair,Daily: Big Fish in a Small Pond,true
+3838,C.A.M.P,Furniture,Chairs,Drowned Chesterfield Chair,Daily: Big Fish in a Small Pond,true
 3839,Recipes,Consumables,Food,Fish and Tatos,Daily: Big Fish in a Small Pond,true
 3840,Recipes,Consumables,Food,Fish Chowder,Daily: Big Fish in a Small Pond,true
 3841,Mods,Tools,Fishing Rod,Attractive Hook,Daily: Big Fish in a Small Pond,true
