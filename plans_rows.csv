@@ -54,7 +54,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 53,Armor,Power Armor,Strangler,Strangler Heart Left Arm,"Sold by Regs & Minerva (Lists 2, 4, 18, & 20)",true
 54,Armor,Power Armor,Strangler,Strangler Heart Left Leg,"Sold by Regs & Minerva (Lists 2, 4, 18, & 20)",true
 55,Armor,Power Armor,Strangler,Strangler Heart Right Arm,"Sold by Regs & Minerva (Lists 2, 4, 18, & 20)",true
-56,Armor,Power Armor,Strangler,Strangler Heart RIght Leg,"Sold by Regs & Minerva (Lists 2, 4, 18, & 20)",true
+56,Armor,Power Armor,Strangler,Strangler Heart Right Leg,"Sold by Regs & Minerva (Lists 2, 4, 18, & 20)",true
 57,Armor,Power Armor,T-45,T-45 Helmet,Event: Test Your Metal,true
 58,Armor,Power Armor,T-45,T-45 Torso,Event: Test Your Metal,true
 59,Armor,Power Armor,T-45,T-45 Left Arm,Event: Test Your Metal,true
@@ -66,7 +66,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 65,Armor,Power Armor,T-51b,T-51b Left Arm,Event: Test Your Metal,true
 66,Armor,Power Armor,T-51b,T-51b Left Leg,Event: Test Your Metal,true
 67,Armor,Power Armor,T-51b,T-51b Right Arm,Event: Test Your Metal,true
-68,Armor,Power Armor,T-51b,T-51b RIght Leg,Event: Test Your Metal,true
+68,Armor,Power Armor,T-51b,T-51b Right Leg,Event: Test Your Metal,true
 69,Armor,Power Armor,T-60,T-60 Helmet,Event: Distant Thunder | Treasure Maps: Ash Heap & Cranberry Bog,true
 70,Armor,Power Armor,T-60,T-60 Chest Piece,Event: Distant Thunder | Treasure Maps: Ash Heap & Cranberry Bog,true
 71,Armor,Power Armor,T-60,T-60 Left Arm,Event: Distant Thunder | Treasure Maps: Ash Heap & Cranberry Bog,true
@@ -2305,12 +2305,12 @@ plan_id,item_type,item_name,section,name,location,obtainable
 2380,Mods,Ranged Weapons,Missile Launcher,Missile Launcher Targeting Computer,"Sold by: Ash Heap, Cranberry Bog, & Mire Vendors",true
 2381,Mods,Ranged Weapons,Missile Launcher,Bayonet,Learn from scrapping: Missile Launcher,true
 2382,Mods,Ranged Weapons,Missile Launcher,Stabilizer,Learn from scrapping: Missile Launcher,true
-2383,Mods,Ranged Weapons,Pepper Shaker,Pepper Shaker Dual Barrel,"Sold by Mortimer (Ally), Samuel (Ally) &, Regs",true
-2384,Mods,Ranged Weapons,Pepper Shaker,Pepper Shaker Hex Barrel,"Sold by Mortimer (Ally), Samuel (Ally) &, Regs",true
-2385,Mods,Ranged Weapons,Pepper Shaker,Pepper Shaker Single Barrel,"Sold by Mortimer (Ally), Samuel (Ally) &, Regs",true
+2383,Mods,Ranged Weapons,Pepper Shaker,Pepper Shaker Dual Barrel,"Sold by Mortimer (Ally), Samuel (Ally), & Regs",true
+2384,Mods,Ranged Weapons,Pepper Shaker,Pepper Shaker Hex Barrel,"Sold by Mortimer (Ally), Samuel (Ally), & Regs",true
+2385,Mods,Ranged Weapons,Pepper Shaker,Pepper Shaker Single Barrel,"Sold by Mortimer (Ally), Samuel (Ally), & Regs",true
 2386,Mods,Ranged Weapons,Pepper Shaker,Pepper Shaker Laser Magazine,"Sold by Mortimer (Ally), Samuel (Ally &), Regs",true
-2387,Mods,Ranged Weapons,Pepper Shaker,Pepper Shaker Plasma Magazine,"Sold by Mortimer (Ally), Samuel (Ally) &, Regs",true
-2388,Mods,Ranged Weapons,Pepper Shaker,Pepper Shaker Gunner Sight,"Sold by Mortimer (Ally), Samuel (Ally) &, Regs",true
+2387,Mods,Ranged Weapons,Pepper Shaker,Pepper Shaker Plasma Magazine,"Sold by Mortimer (Ally), Samuel (Ally), & Regs",true
+2388,Mods,Ranged Weapons,Pepper Shaker,Pepper Shaker Gunner Sight,"Sold by Mortimer (Ally), Samuel (Ally), & Regs",true
 2389,Mods,Ranged Weapons,Pipe Bolt-Action,Pipe Bolt-Action .38 Receiver,Sold by: Savage Divide & Toxic Valley Vendors,true
 2390,Mods,Ranged Weapons,Pipe Bolt-Action,Calibrated Receiver,Learn from scrapping: Pipe Bolt-Action,true
 2391,Mods,Ranged Weapons,Pipe Bolt-Action,Pipe Bolt-Action Critical .38 Receiver,Sold by: Savage Divide & Toxic Valley Vendors,true
@@ -3329,7 +3329,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3418,Clothing,Accessories,Outfits,Burnt Vault Lab Coat,Event: Dangerous Pastimes,true
 3419,C.A.M.P,Decorations,Misc. Structures,Lightning Harvester,Event: Dangerous Pastimes,true
 3420,C.A.M.P,Decorations,Misc. Structures,Lost Tube,Event: Dangerous Pastimes,true
-3421,C.A.M.P,Decorations,Misc. Structures,Moe the Mole Safety Cutout,Event: Dangerous Pastimes,false
+3421,C.A.M.P,Decorations,Misc. Structures,Moe the Mole Safety Cutout,Event: Dangerous Pastimes,true
 3422,Clothing,Accessories,Outfits,Shenandoah T-Shirt & Jeans,Event: Dangerous Pastimes,true
 3423,Clothing,Accessories,Headwear,Vault 63 Recon Helmet Burnt,Event: Dangerous Pastimes,true
 3424,Clothing,Accessories,Outfits,Vault 63 Recon Outfit Burnt,Event: Dangerous Pastimes,true
@@ -3711,7 +3711,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3813,C.A.M.P,Decorations,Misc. Structures,Cosmic Capture,Event: Invaders From Beyond,true
 3814,C.A.M.P,Decorations,Misc. Structures,Company Tea Machine,Sold by Mortimer (Cautious),true
 3815,Paints,,Ranged Weapons,Shattered Grounds Handmade Paint,Sold by Regs,true
-3816,Weapons,,Melee,Garden Trowel Knife
+3816,Weapons,,Melee,Garden Trowel Knife,Event: Big Bloom,true
 3817,C.A.M.P,Decorations,Misc. Structures,Honey Beast Flower Display,Event: Big Bloom,true
 3818,C.A.M.P,Decorations,Misc. Structures,Honey Beast Tube,Event: Big Bloom,true
 3819,C.A.M.P,Decorations,Misc. Structures,Large Glazed Pot,Event: Big Bloom,true
@@ -3721,47 +3721,65 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3823,C.A.M.P,Decorations,Misc. Structures,Pot o’ Radlily,Event: Big Bloom,true
 3824,C.A.M.P,Decorations,Misc. Structures,Small Glazed Pot,Event: Big Bloom,true
 3825,C.A.M.P,Decorations,Misc. Structures,Susan’s Floral Secrets,Event: Big Bloom,true
-3826,C.A.M.P,Utilities,Food,Critter Cooker,Sold By Samuel (Cautious),false
-3827,C.A.M.P,Utilities,Food,Slime Cake,Sold By Samuel (Cautious),false
-3828,C.A.M.P,Decorations,Floor Decor,Eel in a Bottle,Daily Quest,true
-3829,C.A.M.P,Building,Lights,Drowned Signal Lantern,Daily Quest,true
-3830,C.A.M.P,Building,Lights,Drowned Box Lamp,Daily Quest,true
-3831,C.A.M.P,Building,Lights,Drowned Flood Light,Daily Quest,true
-3832,C.A.M.P,Decorations,Displays,Fishing Rod Display,Daily Quest,true
-3833,C.A.M.P,Furniture,Tables,Drowned Coffee Table,Daily Quest,true
-3834,C.A.M.P,Furniture,Tables,Drowned Presidential Desk,Daily Quest,true
-3835,C.A.M.P,Furniture,Tables,Drowned Fancy Desk,Daily Quest,true
-3836,C.A.M.P,Furniture,Appliances,Chum Trough,Daily Quest,true
-3837,C.A.M.P,Furniture,Chairs,Drowned Chesterfield Sofa,Daily Quest,true
-3838,C.A.M.P,Furniture,Chairs,Drowned CHesterfield Chair,Daily Quest,true
-3839,Recipes,Consumables,Food,Fish and Tatos,Daily Quest,true
-3840,Recipes,Consumables,Food,Fish Chowder,Daily Quest,true
-3841,Mods,Tools,Fishing Rod,Attractive Hook,Daily Quest,true
-3842,Mods,Tools,Fishing Rod,Improved Bearing,Daily Quest,true
-3843,Mods,Tools,Fishing Rod,Advanced Drag,Daily Quest,true
-3844,Mods,Tools,Fishing Rod,Stabilized Gear Ratio,Daily Quest,true
-3845,Mods,Tools,Fishing Rod,Steady Handle,Daily Quest,true
-3846,C.A.M.P,Decorations,Displays,Curved Fish Display,Daily Quest,true
-3847,Recipes,Consumables,Food,Grilled Fish,Quest: Casting Off,false
-3848,Mods,Tools,Fishing Rod,Mark 1 Reel,Tiered Challenge,false
-3849,Mods,Tools,Fishing Rod,Mark 2 Reel,Tiered Challenge,false
-3850,Mods,Tools,Fishing Rod,Mark 3 Reel,Tiered Challenge,false
-3851,Mods,Tools,Fishing Rod,Mark 4 Reel,Tiered Challenge,false 
-3852,C.A.M.P,Decorations,Floor Decor,Angler Plushie,Fishing Challenge Reward,false
-3853,C.A.M.P,Decorations,Floor Decor,Crab Boat Plushie,Fishing Challenge Reward,false
-3854,Mods,Tools,Fishing Rod,Crimson Stripe Float,Fishing Challenge Reward,false
-3855,Mods,Tools,Fishing Rod,Festive Float,Fishing Challenge Reward,false
-3856,C.A.M.P,Decorations,Displays,Fish Display Plaque,Fishing Challenge Reward,false
-3857,C.A.M.P,Utilities,Crafting,Fishermans Cooking Station,Fishing Challenge Reward,false
-3858,Mods,Tools,Fishing Rod,Flamewood Float,Fishing Challenge Reward,false
-3859,C.A.M.P,Decorations,Wall Decor,Kelp Curtain,Fishing Challenge Reward,false
-3860,Utilities,,Fishing Rod,Makeshift Rod,Fishing Challenge Reward,false
-3861,C.A.M.P,Decorations,Floor Decor,Mirelurk Plushie,Fishing Challenge Reward,false
-3862,Mods,Tools,Fishing Rod,Pin Bobber,Fishing Challenge Reward,false
-3863,Mods,Tools,Fishing Rod,Quantum Bobber,Fishing Challenge Reward,false
-3864,C.A.M.P,Building,Lights,Reclaimed Ship Chandelier,Fishing Challenge Reward,false
-3865,Mods,Tools,Fishing Rod,Red Tide Float,Fishing Challenge Reward,false
-3866,Mods,Tools,Fishing Rod,Rocket Bobber,Fishing Challenge Reward,false
-3867,Clothing,Backpack,Material,Scuba Tank Backpack,Fishing Challenge Reward,false
-3868,Mods,Tools,Fishing Rod,Skyfire Float,Fishing Challenge Reward,false
-3869,Mods,Tools,Fishing Rod,Twin Timber Float,Fishing Challenge Reward,false
+3826,C.A.M.P,Utilities,Food,Critter Cooker,Sold By Samuel (Cautious),true
+3827,C.A.M.P,Utilities,Food,Slime Cake,Sold By Samuel (Cautious),true
+3828,C.A.M.P,Decorations,Floor Decor,Eel in a Bottle,Daily: Big Fish in a Small Pond,true
+3829,C.A.M.P,Building,Lights,Drowned Signal Lantern,Daily: Big Fish in a Small Pond,true
+3830,C.A.M.P,Building,Lights,Drowned Box Lamp,Daily: Big Fish in a Small Pond,true
+3831,C.A.M.P,Building,Lights,Drowned Flood Light,Daily: Big Fish in a Small Pond,true
+3832,C.A.M.P,Decorations,Displays,Fishing Rod Display,Daily: Big Fish in a Small Pond,true
+3833,C.A.M.P,Furniture,Tables,Drowned Coffee Table,Daily: Big Fish in a Small Pond,true
+3834,C.A.M.P,Furniture,Tables,Drowned Presidential Desk,Daily: Big Fish in a Small Pond,true
+3835,C.A.M.P,Furniture,Tables,Drowned Fancy Desk,Daily: Big Fish in a Small Pond,true
+3836,C.A.M.P,Furniture,Appliances,Chum Trough,Daily: Big Fish in a Small Pond,true
+3837,C.A.M.P,Furniture,Chairs,Drowned Chesterfield Sofa,Daily: Big Fish in a Small Pond,true
+3838,C.A.M.P,Furniture,Chairs,Drowned Chesterfield Chair,Daily: Big Fish in a Small Pond,true
+3839,Recipes,Consumables,Food,Fish and Tatos,Daily: Big Fish in a Small Pond,true
+3840,Recipes,Consumables,Food,Fish Chowder,Daily: Big Fish in a Small Pond,true
+3841,Mods,Tools,Fishing Rod,Attractive Hook,Daily: Big Fish in a Small Pond,true
+3842,Mods,Tools,Fishing Rod,Improved Bearing,Daily: Big Fish in a Small Pond,true
+3843,Mods,Tools,Fishing Rod,Advanced Drag,Daily: Big Fish in a Small Pond,true
+3844,Mods,Tools,Fishing Rod,Stabilized Gear Ratio,Daily: Big Fish in a Small Pond,true
+3845,Mods,Tools,Fishing Rod,Steady Handle,Daily: Big Fish in a Small Pond,true
+3846,C.A.M.P,Decorations,Displays,Curved Fish Display,Daily: Big Fish in a Small Pond,true
+3847,Recipes,Consumables,Food,Grilled Fish,Quest: Casting Off,true
+3848,Mods,Tools,Fishing Rod,Mark 1 Reel,Tiered Challenge,true
+3849,Mods,Tools,Fishing Rod,Mark 2 Reel,Tiered Challenge,true
+3850,Mods,Tools,Fishing Rod,Mark 3 Reel,Tiered Challenge,true
+3851,Mods,Tools,Fishing Rod,Mark 4 Reel,Tiered Challenge,true
+3852,C.A.M.P,Decorations,Floor Decor,Angler Plushie,Fishing Challenge Reward,true
+3853,C.A.M.P,Decorations,Floor Decor,Crab Boat Plushie,Fishing Challenge Reward,true
+3854,Mods,Tools,Fishing Rod,Crimson Stripe Float,Fishing Challenge Reward,true
+3855,Mods,Tools,Fishing Rod,Festive Float,Fishing Challenge Reward,true
+3856,C.A.M.P,Decorations,Displays,Fish Display Plaque,Fishing Challenge Reward,true
+3857,C.A.M.P,Utilities,Crafting,Fishermans Cooking Station,Fishing Challenge Reward,true
+3858,Mods,Tools,Fishing Rod,Flamewood Float,Fishing Challenge Reward,true
+3859,C.A.M.P,Decorations,Wall Decor,Kelp Curtain,Fishing Challenge Reward,true
+3860,Utilities,,Fishing Rod,Makeshift Rod,Fishing Challenge Reward,true
+3861,C.A.M.P,Decorations,Floor Decor,Mirelurk Plushie,Fishing Challenge Reward,true
+3862,Mods,Tools,Fishing Rod,Pin Bobber,Fishing Challenge Reward,true
+3863,Mods,Tools,Fishing Rod,Quantum Bobber,Fishing Challenge Reward,true
+3864,C.A.M.P,Building,Lights,Reclaimed Ship Chandelier,Fishing Challenge Reward,true
+3865,Mods,Tools,Fishing Rod,Red Tide Float,Fishing Challenge Reward,true
+3866,Mods,Tools,Fishing Rod,Rocket Bobber,Fishing Challenge Reward,true
+3867,Clothing,Backpack,Material,Scuba Tank Backpack,Fishing Challenge Reward,true
+3868,Mods,Tools,Fishing Rod,Skyfire Float,Fishing Challenge Reward,true
+3869,Mods,Tools,Fishing Rod,Twin Timber Float,Fishing Challenge Reward,true
+3870,C.A.M.P,Furniture,Appliances,Weather Control Station (Atlantic City Fog),Sold by Samuel (Cautious),true
+3871,C.A.M.P,Utilities,Resources,Brewing Vat,Sold by Samuel (Cautious),true
+3872,Clothing,Accessories,Headwear,Flower Crown - Candykill,Event: Big Bloom,true
+3873,Clothing,Accessories,Headwear,Flower Crown - Carnal Weeper,Event: Big Bloom,true
+3874,Clothing,Accessories,Headwear,Flower Crown - Crystalcup,Event: Big Bloom,true
+3875,Clothing,Accessories,Headwear,Flower Crown - Embergold,Event: Big Bloom,true
+3876,Clothing,Accessories,Headwear,Flower Crown - Gigablossom,Event: Big Bloom,true
+3877,Clothing,Accessories,Headwear,Flower Crown - Glorybell,Event: Big Bloom,true
+3878,Clothing,Accessories,Headwear,Flower Crown - Green Invader,Event: Big Bloom,true
+3879,Clothing,Accessories,Headwear,Flower Crown - Radlily,Event: Big Bloom,true
+3880,Clothing,Accessories,Headwear,Flower Crown - Seesprout,Event: Big Bloom,true
+3881,Clothing,Accessories,Headwear,Flower Crown - Starlace,Event: Big Bloom,true
+3882,Clothing,Accessories,Outfits,Flower Suit,Event: Big Bloom,true
+3883,Clothing,Accessories,Outfits,Flower-Printed Dress,Event: Big Bloom,true
+3884,Clothing,Accessories,Outfits,Wasteland Florist Apron,Event: Big Bloom,true
+3885,Clothing,Accessories,Headwear,Wasteland Florist Sunhat,Event: Big Bloom,true
+3886,Recipes,Consumables,Drinks,Black-Eyed Susan’s Soothin’,Event: Big Bloom,true
+3887,Recipes,Consumables,Drinks,Gamma Green Tea,Event: Big Bloom,true
