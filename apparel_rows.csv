@@ -232,7 +232,7 @@ a_id,outfit_name,craftable,plan_name,rarity,type
 231,Harness,true,Harness,Common,Underarmor (Raider)
 232,Hazmat Suit,true,Hazmat Suit,Common,Outfit
 233,Hazmat Suit - Teal,true,Hazmat Suit - Teal,Uncommon,Outfit
-234,Hooded Rags,false,,Common,Outfit
+234,Wasteland Rags,false,,Common,Outfit
 235,Hunter's Long Coat,false,,Rare,Outfit
 236,Imposter Sheepsquatch Helmet,false,,Uncommon,Headwear
 237,Imposter Sheepsquatch Outfit,false,,Uncommon,Outfit
@@ -472,3 +472,8 @@ a_id,outfit_name,craftable,plan_name,rarity,type
 474,Flower-Printed Sun Dress,true,,Uncommon,Outfit
 475,Wasteland Florist Apron,true,,Uncommon,Outfit
 476,Wasteland Florist Sunhat,true,,Uncommon,Headwear
+477,Fasnacht Glowing Corn Cob Mask,false,,Rare,Headwear
+478,Fasnacht Glowing Jester Mask,false,,Rare,Headwear
+479,Fasnacht Glowing Owl Mask,false,,Rare,Headwear
+480,Fasnacht Glowing Skull Mask,false,,Rare,Headwear
+481,Fasnacht Glowing Sun Mask,false,,Rare,Headwear
