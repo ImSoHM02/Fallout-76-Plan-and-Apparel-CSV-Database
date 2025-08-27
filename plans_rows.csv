@@ -3437,8 +3437,8 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3538,C.A.M.P,Decorations,Wall Decor,Persian Wall Rug,Sold by Ineke @ Tier 1,true
 3539,C.A.M.P,Utilities,Stash Boxes,Park Ranger Supply Box,Sold by Ineke @ Tier 1,true
 3540,Clothing,Accessories,Outfits,Lederhosen Outfit,Sold by Ineke @ Tier 2,true
-3541,Clothing,Accessories,Outfits,Lederhosen Outfit Hat,Sold by Ineke @ Tier 2,true
-3542,Clothing,Accessories,Outfits,Redcoat Hat,Sold by Ineke @ Tier 3,true
+3541,Clothing,Accessories,Headwear,Lederhosen Outfit Hat,Sold by Ineke @ Tier 2,true
+3542,Clothing,Accessories,Headwear,Redcoat Hat,Sold by Ineke @ Tier 3,true
 3543,Clothing,Accessories,Outfits,Redcoat Outfit,Sold by Ineke @ Tier 3,true
 3544,Clothing,Backpack,Material,Vault Boy Plushie,Sold by Ineke @ Tier 3,true
 3545,Clothing,Backpack,Material,Vault Girl Plushie Backpack,Sold by Ineke @ Tier 3,true
