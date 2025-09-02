@@ -650,10 +650,10 @@ plan_id,item_type,item_name,section,name,location,obtainable
 659,C.A.M.P,Utilities,Stash Boxes,Black Suitcase,Sold by Grahm,true
 660,C.A.M.P,Utilities,Stash Boxes,Toolbox,Sold By Raider Vendors & Grahm,true
 661,C.A.M.P,Utilities,Stash Boxes,Large Toolbox,"Random Workshop Plans & Events: Any Region | Sold By Brotherhood & Free States Vendors, & Grahm",true
-662,C.A.M.P,Utilities,Stash Boxes,Safe,Sold By Raider Vendors & Grahm,true
+662,C.A.M.P,Utilities,Stash Boxes,Pre-War Safe,Sold By Raider Vendors & Grahm,true
 663,C.A.M.P,Utilities,Stash Boxes,Tool Chest,Sold By Raider Vendors & Grahm,true
 664,C.A.M.P,Utilities,Stash Boxes,Wooden Crate,Random Workshop Plans & Events: Any Region | Sold By Raider Vendors,true
-665,C.A.M.P,Utilities,Stash Boxes,Locker,"Sold By Brotherhood & Free States Vendors, & Grahm",true
+665,C.A.M.P,Utilities,Stash Boxes,Pre-War Locker,"Sold By Brotherhood & Free States Vendors, & Grahm",true
 666,C.A.M.P,Utilities,Stash Boxes,News Stand,Random Workshop Plans & Events: Any Region | Sold By Raider Vendors,true
 667,C.A.M.P,Utilities,Stash Boxes,Trash Can,Random Workshop Plans & Events: Any Region | Sold By Raider Vendors,true
 668,C.A.M.P,Utilities,Stash Boxes,Elegant Tables,Sold by Pendleton,true
@@ -661,14 +661,14 @@ plan_id,item_type,item_name,section,name,location,obtainable
 670,C.A.M.P,Utilities,Stash Boxes,Floor Safe (Flat),"Sold By Brotherhood & Free States Vendors, & Grahm",true
 671,C.A.M.P,Utilities,Stash Boxes,Dumpster,Random Workshop Plans & Events: Any Region | Sold By Raider Vendors,true
 672,C.A.M.P,Utilities,Stash Boxes,Bear-Proof Trashcan,Random Workshop Plans & Events: Any Region | Sold By Raider Vendors,true
-673,C.A.M.P,Utilities,Stash Boxes,Dressers,Random Workshop Plans & Events: Any Region | Sold By Raider Vendors,true
-674,C.A.M.P,Utilities,Stash Boxes,Cabinets,"Sold By Brotherhood & Free States Vendors, & Grahm",true
-675,C.A.M.P,Utilities,Stash Boxes,Bureau,Sold by Pendleton,true
-676,C.A.M.P,Utilities,Stash Boxes,Desk,Sold By Brotherhood Vendors & Grahm,true
-677,C.A.M.P,Utilities,Stash Boxes,Dresser,Sold By Brotherhood Vendors & Grahm,true
-678,C.A.M.P,Utilities,Stash Boxes,Locker,Sold By Brotherhood Vendors & Grahm,true
+673,C.A.M.P,Utilities,Stash Boxes,Pre-War Dressers,Random Workshop Plans & Events: Any Region | Sold By Raider Vendors,true
+674,C.A.M.P,Utilities,Stash Boxes,Garage Cabinets,"Sold By Brotherhood & Free States Vendors, & Grahm",true
+675,C.A.M.P,Utilities,Stash Boxes,Elegant Bureau,Sold by Pendleton,true
+676,C.A.M.P,Utilities,Stash Boxes,Vault Desk,Sold By Brotherhood Vendors & Grahm,true
+677,C.A.M.P,Utilities,Stash Boxes,Vault Dresser,Sold By Brotherhood Vendors & Grahm,true
+678,C.A.M.P,Utilities,Stash Boxes,Vault Locker,Sold By Brotherhood Vendors & Grahm,true
 679,C.A.M.P,Utilities,Stash Boxes,Resort Trashcan,Sold by Pendleton,true
-680,C.A.M.P,Utilities,Stash Boxes,Floor Safe,Event: Most Wanted,true
+680,C.A.M.P,Utilities,Stash Boxes,Pre-War Floor Safe,Event: Most Wanted,true
 681,C.A.M.P,Utilities,Stash Boxes,Wall Safe,Event: Most Wanted,true
 682,C.A.M.P,Furniture,Tables,Cartography Table,Event: Safe & Sound,true
 683,C.A.M.P,Furniture,Tables,Modern Tables,Sold by Responder Vendors,true
@@ -2289,7 +2289,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 2364,Mods,Ranged Weapons,Lever Action Rifle,Short Scope,Learn from scrapping: Lever Action Rifle,true
 2365,Mods,Ranged Weapons,Lever Action Rifle,Compensator,Learn from scrapping: Lever Action Rifle,true
 2366,Mods,Ranged Weapons,Lever Action Rifle,Supressor,Learn from scrapping: Lever Action Rifle,true
-2367,Mods,Ranged Weapons,MG42 Light Machine Gun,Prime Light Machine Gun Receiver,Drops from Scorchbeast & Scorchbeast Queen,true
+2367,Mods,Ranged Weapons,MG42 Light Machine Gun,Prime Light Machine Gun .308 Receiver,Drops from Scorchbeast & Scorchbeast Queen,true
 2368,Mods,Ranged Weapons,MG42 Light Machine Gun,Muzzle Brake,Learn from scrapping: LMG,true
 2369,Mods,Ranged Weapons,M79 Grenade Launcher,Long Barrel,Learn from scrapping: M79,true
 2370,Mods,Ranged Weapons,M79 Grenade Launcher,Full Stock,Learn from scrapping: M80,true
@@ -3783,3 +3783,162 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3885,Clothing,Accessories,Headwear,Wasteland Florist Sunhat,Event: Big Bloom,true
 3886,Recipes,Consumables,Drinks,Black-Eyed Susan’s Soothin’,Event: Big Bloom,true
 3887,Recipes,Consumables,Drinks,Gamma Green Tea,Event: Big Bloom,true
+3888,Player,,Titles,Goblin,Event: Mischief Night (First Time Drop),true
+3889,C.A.M.P,Decorations,Floor Decor,Mischief Night Stein,Event: Mischief Night,true
+3890,Clothing,Accessories,Outfits,Spooky Scarecrow Outfit,Event: Mischief Night,true
+3891,C.A.M.P,Decorations,Floor Decor,Bat Plushie,Event: Mischief Night,true
+3892,Clothing,Backpack,Backpacks,Bat Plushie Backpack,Event: Mischief Night,true
+3893,C.A.M.P,Furniture,Appliances,Cauldron Hot Tub,Event: Mischief Night,true
+3894,C.A.M.P,Structures,Fences,Crooked Metal Fence,Event: Mischief Night,true
+3895,C.A.M.P,Decorations,Floor Decor,Deathclaw Gargoyle Statue,Event: Mischief Night,true
+3896,Clothing,Backpack,Flairs,Jack-O'-Lantern Backpack Flair,Event: Mischief Night,true
+3897,Clothing,Backpack,Backpacks,Jack-in-the-box Backpack,Event: Mischief Night,true
+3898,Clothing,Backpack,Backpacks,Scorpion Plushie Backpack,Event: Mischief Night,true
+3899,C.A.M.P,Furniture,Chairs,Hay Bale Throne,Event: Mischief Night,true
+3900,Clothing,Accessories,Headwear,Spooky Scarecrow Headpiece,Event: Mischief Night,true
+3901,C.A.M.P,Decorations,Misc. Structures,Skeletal Weapon Rack,Event: Mischief Night,true
+3902,C.A.M.P,Building,Lights,Boney Arm Sconce,Event: Mischief Night,true
+3903,C.A.M.P,Building,Lights,Cultist Lamp,Event: Mischief Night,true
+3904,C.A.M.P,Decorations,Floor Decor,Scorpion Plushie,Event: Mischief Night,true
+3905,C.A.M.P,Decorations,Floor Decor,Large Deathclaw Gargoyle Statue,Event: Mischief Night,true
+3906,Mods,Ranged Weapons,MG42 Light Machine Gun,Prime Light Machine Gun .45 Receiver,Drops from Scorchbeast & Scorchbeast Queen,true
+3907,Mods,Ranged Weapons,MG42 Light Machine Gun,Prime Light Machine Gun 5.56 Receiver,Drops from Scorchbeast & Scorchbeast Queen,true
+3908,C.A.M.P,Utilities,Crafting,Cannery,Event: Mischief Night,true
+3909,C.A.M.P,Decorations,Floor Decor,Dirty Pond,Event: Mischief Night,true
+3910,C.A.M.P,Decorations,Floor Decor,Ice Breaker,Event: Mischief Night,true
+3911,Player,,Titles,Abominable,Scoreboard: Glow of the Ghoul,true
+3912,Player,,Titles,Appalachian,Unlocked by Default,true
+3913,Player,,Titles,Axolotl,Event: Catch Any Axolotl Challenge,true
+3914,Player,,Titles,Bold,Event: Discover the Gleaming Depths,true
+3915,Player,,Titles,Captain,Event: Complete All Regional Fishing Challenges,true
+3916,Player,,Titles,Chef,Event: Learn 76 Cooking Recipes,true
+3917,Player,,Titles,Contaminated,Scoreboard: Gone Fission,true
+3918,Player,,Titles,Contessa,Scoreboard: Gone Fission,true
+3919,Player,,Titles,Cryotozoologist,Event: Kill 8 Cryptids,true
+3920,Player,,Titles,Daring,Scoreboard: Rip Daring and the Cryptid Hunt (Rank 100),true
+3921,Player,,Titles,Destroyer,Quest: I Am Become Death,true
+3922,Player,,Titles,Devilish,Scoreboard: Duel with the Devil (Rank 100),true
+3923,Player,,Titles,Diabolicals,Scoreboard: The Unstoppables vs The Diabolicals (Rank 100),true
+3924,Player,,Titles,Fallout,Fallout 1st,true
+3925,Player,,Titles,Feral,Scoreboard: Glow of the Ghoul,true
+3926,Player,,Titles,Festive,Event: Scorched Holidays (Holiday Gifts),true
+3927,Player,,Titles,First,Fallout 1st,true
+3928,Player,,Titles,Freedom,Scoreboard: Fight for Freedom (Rank 100),true
+3929,Player,,Titles,General,Quest: Officer on Deck,true
+3930,Player,,Titles,Ghastly,Scoreboard: Glow of the Ghoul,true
+3931,Player,,Titles,Ghoulish,Scoreboard: Glow of the Ghoul,true
+3932,Player,,Titles,Glowing,Event: Fasnacht Day,true
+3933,Player,,Titles,Golden,Quest: Secrets Revealed,true
+3934,Player,,Titles,H-4RT,Scoreboard: Dread Island (Rank 100),true
+3935,Player,,Titles,Hellfire,Scoreboard: Gleaming Depths,true
+3936,Player,,Titles,Helpful,Unlocked by Default,true
+3937,Player,,Titles,Irradiated,Scoreboard: Glow of the Ghoul,true
+3938,Player,,Titles,Lost,Quest: The Eye of the Storm,true
+3939,Player,,Titles,MIND,Scoreboard: Escape from the 42nd Century (Rank 100),true
+3940,Player,,Titles,Mad,Scoreboard: Gleaming Depths,true
+3941,Player,,Titles,Masked,Event: Fasnacht Day,true
+3942,Player,,Titles,Mutated,Mutated Event Packages,true
+3943,Player,,Titles,Nuka-World,Scoreboard: Nuka-World (Rank 100),true
+3944,Player,,Titles,Old,Unlocked by Default,true
+3945,Player,,Titles,Paranoid,Scoreboard: Gone Fission,true
+3946,Player,,Titles,Patriotic,Scoreboard: Gone Fission,true
+3947,Player,,Titles,Prepared,Unlocked by Default,true
+3948,Player,,Titles,Rebel,Quest: Coming to Fruition,true
+3949,Player,,Titles,Reeling,Scoreboard: Gone Fission,true
+3950,Player,,Titles,Responder,Quest: Responders Reborn,true
+3951,Player,,Titles,Revitalizing,Quest: Revive Players 76 Times,true
+3952,Player,,Titles,Rotten,Scoreboard: Glow of the Ghoul,true
+3953,Player,,Titles,Salty,Scoreboard: Marshal Mallow's Marvelous Fishing Excursion,true
+3954,Player,,Titles,Sickly,Scoreboard: Glow of the Ghoul,true
+3955,Player,,Titles,Spooky,Event: Spooky Scorched (Spooky Treat Bags),true
+3956,Player,,Titles,Stinky,Quest: Acquire 22 Diseases,true
+3957,Player,,Titles,Sturdy,Scoreboard: Gone Fission,true
+3958,Player,,Titles,Switchback,Scoreboard: Gone Fission,true
+3959,Player,,Titles,Tiki,Scoreboard: Gone Fission,true
+3960,Player,,Titles,Undead,Scoreboard: Glow of the Ghoul,true
+3961,Player,,Titles,Underground,Scoreboard: A Better Life Underground (Rank 100),true
+3962,Player,,Titles,Untangled,Scoreboard: Gone Fission,true
+3963,Player,,Titles,Vault,Quest: Reclamation Day,true
+3964,Player,,Titles,Weekend,Scoreboard: Gone Fission,true
+3965,Player,,Titles,Young,Unlocked by Default,true
+3966,Player,,Titles,Zorbo's,Scoreboard: Zorbo's Revenge (Rank 100),true
+3967,Player,,Titles,Adoring Fan,Quest: Explore Appalachia for 7600 Hours,true
+3968,Player,,Titles,Adventurer,Unlocked by Default,true
+3969,Player,,Titles,Angler,Scoreboard: Gone Fission,true
+3970,Player,,Titles,Avalon Scribe,Scoreboard: The Scribe of Avalon (Rank 100),true
+3971,Player,,Titles,Bobber,Scoreboard: Gone Fission,true
+3972,Player,,Titles,Brotherhood Initiate,Quest: Field Testing,true
+3973,Player,,Titles,Buoy,Scoreboard: Gone Fission,true
+3974,Player,,Titles,Camper,Scoreboard: Skyline Valley (Rank 100),true
+3975,Player,,Titles,Cannibal,Scoreboard: Glow of the Ghoul,true
+3976,Player,,Titles,Carnivore,Event Meat Week (Best result in Grahm's Meat-Cook),true
+3977,Player,,Titles,Cattle Rustler,Event: Free Range (All 3 Brahmin alive),true
+3978,Player,,Titles,Cold Steel,Scoreboard: Cold Steel (Rank 100),true
+3979,Player,,Titles,Commoner,Unlocked by Default,true
+3980,Player,,Titles,Conductor,Scoreboard: Gone Fission,true
+3981,Player,,Titles,Cosmonaut,Scoreboard: Gone Fission,true
+3982,Player,,Titles,Cultist,Event: The Mothman Equinox (All 3 Ritual Pyres intact),true
+3983,Player,,Titles,Dealer,Scoreboard: The Big Score (Rank 100),true
+3984,Player,,Titles,Delver,Scoreboard: Gleaming Depths,true
+3985,Player,,Titles,Devil's Advocate,Quest: Sins of the Father,true
+3986,Player,,Titles,Drill Destroyer,Quest: Defeat Drill Complex x5,true
+3987,Player,,Titles,Drill Eradicator,Quest: Defeat Drill Complex x76,true
+3988,Player,,Titles,Drill Slayer,Quest: Defeat Drill Complex x1,true
+3989,Player,,Titles,Driver,Scoreboard: Milepost Zero (Rank 100),true
+3990,Player,,Titles,Dweller,Quest: Reclamation Day,true
+3991,Player,,Titles,Experimenter,Scoreboard: Gleaming Depths,true
+3992,Player,,Titles,Explorer,Unlocked by Default,true
+3993,Player,,Titles,Fire Breather,Quest: Into the Fire,true
+3994,Player,,Titles,Floater,Scoreboard: Gone Fission,true
+3995,Player,,Titles,Gamer,Scoreboard: Gone Fission,true
+3996,Player,,Titles,Gardener,Event: The Big Bloom,true
+3997,Player,,Titles,Gleaming Destroyer,Quest: Defeat All Encounters x5,true
+3998,Player,,Titles,Gleaming Eradicator,Quest: Defeat All Encounters x76,true
+3999,Player,,Titles,Gleaming Slayer,Quest: Defeat All Encounters x1,true
+4000,Player,,Titles,Guardian Destroyer,Quest: Defeat EN06 Guardian x5,true
+4001,Player,,Titles,Guardian Eradicator,Quest: Defeat EN06 Guardian x76,true
+4002,Player,,Titles,Guardian Slayer,Quest: Defeat EN06 Guardian x1,true
+4003,Player,,Titles,Happy Camper,EVent: Happy Camper,true
+4004,Player,,Titles,Invader,Event: Invaders from Beyond,true
+4005,Player,,Titles,Knight-Errant,Quest: The Catalyst,true
+4006,Player,,Titles,Lab Destroyer,Quest: Defeat Vulcan Research Lab x5,true
+4007,Player,,Titles,Lab Eradicator,Quest: Defeat Vulcan Research Lab x76,true
+4008,Player,,Titles,Lab Slayer,Quest: Defeat Vulcan Research Lab x1,true
+4009,Player,,Titles,Landlord,Event: Eviction Notice,true
+4010,Player,,Titles,Legendary Run,Scoreboard: The Legendary Run (Rank 100),true
+4011,Player,,Titles,Lunker,Event: Catch Any Fish x760 Challenge,true
+4012,Player,,Titles,Mannequin,Scoreboard: Gone Fission,true
+4013,Player,,Titles,Marauder,Scoreboard: Gone Fission,true
+4014,Player,,Titles,Marshal Mallow,Scoreboard: Marshal Mallow's Marvelous Fishing Excursion,true
+4015,Player,,Titles,Movie Star,Scoreboard: Shoot for the Stars (Rank 100),true
+4016,Player,,Titles,Of Worlds,Quest: I Am Become Death,true
+4017,Player,,Titles,Of the Month,Event: Catch All Axolotls Challenge,true
+4018,Player,,Titles,Outlaw,Scoreboard: Appalachian Outlaws,true
+4019,Player,,Titles,Public Tester,Quest: Public Test Server,true
+4020,Player,,Titles,Quality Tester,Quest: Wasted on Nukashine,true
+4021,Player,,Titles,Researcher,Event: Project Paradise,true
+4022,Player,,Titles,Resident,Unlocked by Default,true
+4023,Player,,Titles,Rumbler,Event: Radiation Rumble (Collected ore must reach the highest threshold),true
+4024,Player,,Titles,Salesman,Scoreboard: Gone Fission,true
+4025,Player,,Titles,Saleswoman,Scoreboard: Gone Fission,true
+4026,Player,,Titles,Scavenger,Unlocked by Default,true
+4027,Player,,Titles,Science Officer,Scoreboard: Gleaming Depths,true
+4028,Player,,Titles,Scientist,Scoreboard: Gleaming Depths,true
+4029,Player,,Titles,Serpent Destroyer,Quest: Defeat Ultracite Terror x5,true
+4030,Player,,Titles,Serpent Eradicator,Quest: Defeat Ultracite Terror x76,true
+4031,Player,,Titles,Serpent Slayer,Quest: Defeat Ultracite Terror x1,true
+4032,Player,,Titles,Squad Destroyer,Quest: Defeat Epsilon Squad x5,true
+4033,Player,,Titles,Squad Eradicator,Quest: Defeat Epsilon Squad x76,true
+4034,Player,,Titles,Squad Slayer,Quest: Defeat Epsilon Squad x1,true
+4035,Player,,Titles,Steeled,Scoreboard: The City of Steel (Rank 100),true
+4036,Player,,Titles,Subjugator,Scoreboard: Armor Ace (Rank 100),true
+4037,Player,,Titles,Surveyor,Event: Treasure Hunter (Player-crafted Mole Miner Pails),true
+4038,Player,,Titles,Survivor,Quest: Find Survivor Story holotapes,true
+4039,Player,,Titles,Teammate,Unlocked by Default,true
+4040,Player,,Titles,Theorist,Scoreboard: Gone Fission,true
+4041,Player,,Titles,Tough Hunter,Quest: Kill 13 Tough Enemies,true
+4042,Player,,Titles,Trawler,Scoreboard: Gone Fission,true
+4043,Player,,Titles,Trooper,Scoreboard: Gleaming Depths,true
+4044,Player,,Titles,Workshop,Quest: Claim 21 Workshops,true
+4045,Player,,Titles,Zombie,Scoreboard: Glow of the Ghoul,true
+4046,Player,,Titles,Zookeeper,Event: Project Paradise (All 3 friendly creatures must survive),true
