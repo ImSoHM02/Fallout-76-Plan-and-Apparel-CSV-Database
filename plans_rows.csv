@@ -3386,7 +3386,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3487,Clothing,Backpack,Backpacks,Atomicset Ltd. Handbag Backpack,Event: Holiday Scorched,true
 3488,C.A.M.P,Decorations,Misc. Structures,Giant Red Brontosaurus,Event: Holiday Scorched,true
 3489,Clothing,Accessories,Outfits,Jitterbug Judy Outfit,Event: Holiday Scorched,true
-3490,Weapons,Paints,Melee Paints,Laser Chainsaw Paint,Event: Holiday Scorched,false
+3490,Weapons,Paints,Melee Paints,Laser Chainsaw Paint,Event: Holiday Scorched,true
 3491,Clothing,Backpack,Flairs,Peppermint Backpack Flair,Event: Holiday Scorched,true
 3492,C.A.M.P,Decorations,Floor Decor,Plastiform Snowman,Event: Holiday Scorched,true
 3493,C.A.M.P,Decorations,Floor Decor,Plastiform Vaultboy Elf,Event: Holiday Scorched,true
@@ -3812,8 +3812,6 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3914,Player,,Titles,Bold,Event: Discover the Gleaming Depths,true
 3915,Player,,Titles,Captain,Event: Complete All Regional Fishing Challenges,true
 3916,Player,,Titles,Chef,Event: Learn 76 Cooking Recipes,true
-3917,Player,,Titles,Contaminated,Scoreboard: Gone Fission,true
-3918,Player,,Titles,Contessa,Scoreboard: Gone Fission,true
 3919,Player,,Titles,Cryotozoologist,Event: Kill 8 Cryptids,true
 3920,Player,,Titles,Daring,Scoreboard: Rip Daring and the Cryptid Hunt (Rank 100),true
 3921,Player,,Titles,Destroyer,Quest: I Am Become Death,true
@@ -3841,7 +3839,6 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3943,Player,,Titles,Nuka-World,Scoreboard: Nuka-World (Rank 100),true
 3944,Player,,Titles,Old,Unlocked by Default,true
 3945,Player,,Titles,Paranoid,Scoreboard: Gone Fission,true
-3946,Player,,Titles,Patriotic,Scoreboard: Gone Fission,true
 3947,Player,,Titles,Prepared,Unlocked by Default,true
 3948,Player,,Titles,Rebel,Quest: Coming to Fruition,true
 3949,Player,,Titles,Reeling,Scoreboard: Gone Fission,true
@@ -3853,13 +3850,10 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3955,Player,,Titles,Spooky,Event: Spooky Scorched (Spooky Treat Bags),true
 3956,Player,,Titles,Stinky,Quest: Acquire 22 Diseases,true
 3957,Player,,Titles,Sturdy,Scoreboard: Gone Fission,true
-3958,Player,,Titles,Switchback,Scoreboard: Gone Fission,true
-3959,Player,,Titles,Tiki,Scoreboard: Gone Fission,true
 3960,Player,,Titles,Undead,Scoreboard: Glow of the Ghoul,true
 3961,Player,,Titles,Underground,Scoreboard: A Better Life Underground (Rank 100),true
 3962,Player,,Titles,Untangled,Scoreboard: Gone Fission,true
 3963,Player,,Titles,Vault,Quest: Reclamation Day,true
-3964,Player,,Titles,Weekend,Scoreboard: Gone Fission,true
 3965,Player,,Titles,Young,Unlocked by Default,true
 3966,Player,,Titles,Zorbo's,Scoreboard: Zorbo's Revenge (Rank 100),true
 3967,Player,,Titles,Adoring Fan,Quest: Explore Appalachia for 7600 Hours,true
@@ -3868,15 +3862,12 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3970,Player,,Titles,Avalon Scribe,Scoreboard: The Scribe of Avalon (Rank 100),true
 3971,Player,,Titles,Bobber,Scoreboard: Gone Fission,true
 3972,Player,,Titles,Brotherhood Initiate,Quest: Field Testing,true
-3973,Player,,Titles,Buoy,Scoreboard: Gone Fission,true
 3974,Player,,Titles,Camper,Scoreboard: Skyline Valley (Rank 100),true
 3975,Player,,Titles,Cannibal,Scoreboard: Glow of the Ghoul,true
 3976,Player,,Titles,Carnivore,Event Meat Week (Best result in Grahm's Meat-Cook),true
 3977,Player,,Titles,Cattle Rustler,Event: Free Range (All 3 Brahmin alive),true
 3978,Player,,Titles,Cold Steel,Scoreboard: Cold Steel (Rank 100),true
 3979,Player,,Titles,Commoner,Unlocked by Default,true
-3980,Player,,Titles,Conductor,Scoreboard: Gone Fission,true
-3981,Player,,Titles,Cosmonaut,Scoreboard: Gone Fission,true
 3982,Player,,Titles,Cultist,Event: The Mothman Equinox (All 3 Ritual Pyres intact),true
 3983,Player,,Titles,Dealer,Scoreboard: The Big Score (Rank 100),true
 3984,Player,,Titles,Delver,Scoreboard: Gleaming Depths,true
@@ -3889,8 +3880,6 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3991,Player,,Titles,Experimenter,Scoreboard: Gleaming Depths,true
 3992,Player,,Titles,Explorer,Unlocked by Default,true
 3993,Player,,Titles,Fire Breather,Quest: Into the Fire,true
-3994,Player,,Titles,Floater,Scoreboard: Gone Fission,true
-3995,Player,,Titles,Gamer,Scoreboard: Gone Fission,true
 3996,Player,,Titles,Gardener,Event: The Big Bloom,true
 3997,Player,,Titles,Gleaming Destroyer,Quest: Defeat All Encounters x5,true
 3998,Player,,Titles,Gleaming Eradicator,Quest: Defeat All Encounters x76,true
@@ -3907,8 +3896,6 @@ plan_id,item_type,item_name,section,name,location,obtainable
 4009,Player,,Titles,Landlord,Event: Eviction Notice,true
 4010,Player,,Titles,Legendary Run,Scoreboard: The Legendary Run (Rank 100),true
 4011,Player,,Titles,Lunker,Event: Catch Any Fish x760 Challenge,true
-4012,Player,,Titles,Mannequin,Scoreboard: Gone Fission,true
-4013,Player,,Titles,Marauder,Scoreboard: Gone Fission,true
 4014,Player,,Titles,Marshal Mallow,Scoreboard: Marshal Mallow's Marvelous Fishing Excursion,true
 4015,Player,,Titles,Movie Star,Scoreboard: Shoot for the Stars (Rank 100),true
 4016,Player,,Titles,Of Worlds,Quest: I Am Become Death,true
@@ -3919,8 +3906,6 @@ plan_id,item_type,item_name,section,name,location,obtainable
 4021,Player,,Titles,Researcher,Event: Project Paradise,true
 4022,Player,,Titles,Resident,Unlocked by Default,true
 4023,Player,,Titles,Rumbler,Event: Radiation Rumble (Collected ore must reach the highest threshold),true
-4024,Player,,Titles,Salesman,Scoreboard: Gone Fission,true
-4025,Player,,Titles,Saleswoman,Scoreboard: Gone Fission,true
 4026,Player,,Titles,Scavenger,Unlocked by Default,true
 4027,Player,,Titles,Science Officer,Scoreboard: Gleaming Depths,true
 4028,Player,,Titles,Scientist,Scoreboard: Gleaming Depths,true
