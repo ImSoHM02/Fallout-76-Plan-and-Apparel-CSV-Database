@@ -470,10 +470,17 @@ a_id,outfit_name,craftable,plan_name,rarity,type
 472,Flower Crown - Starlace,true,,Uncommon,Headwear
 473,Flower Suit,true,,Uncommon,Outfit
 474,Flower-Printed Sun Dress,true,,Uncommon,Outfit
-475,Wasteland Florist Apron,true,,Uncommon,Outfit
+475,Wasteland Florist Apron,true,,Uncommon,Headwear
 476,Wasteland Florist Sunhat,true,,Uncommon,Headwear
 477,Fasnacht Glowing Corn Cob Mask,false,,Rare,Headwear
 478,Fasnacht Glowing Jester Mask,false,,Rare,Headwear
 479,Fasnacht Glowing Owl Mask,false,,Rare,Headwear
 480,Fasnacht Glowing Skull Mask,false,,Rare,Headwear
 481,Fasnacht Glowing Sun Mask,false,,Rare,Headwear
+482,Deathclaw Tamer Hat,false,,Uncommon,Headwear
+483,Deathclaw Tamer Outfit,false,,Uncommon,Headwear
+484,Nuclear Winter Beanie,false,,Uncommon,Headwear
+485,Rust raider heavy outfit,true,,Uncommon,Outfit
+486,Rust raider medium outfit,true,,Uncommon,Outfit
+487,Rust raider light outfit,true,,Uncommon,Outfit
+488,Abraxodyne Overalls Outfit,true,,Rare,Outfit

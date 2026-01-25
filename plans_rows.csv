@@ -307,7 +307,6 @@ plan_id,item_type,item_name,section,name,location,obtainable
 306,C.A.M.P,Building,Doors,Ogua Curtain Door,Event: Beasts of Burden,true
 307,C.A.M.P,Building,Doors,Vault Door (Vault Building Set),Quest: Home Expansion,true
 308,C.A.M.P,Building,Doors,Bloody Curtain Door,Event: Grahm's Meat-Cook,true
-309,C.A.M.P,Building,Doors,Blackwoods's Bungalow,Quest: A Satisfied Conscience,true
 310,C.A.M.P,Building,Doors,Wooden Shack Doors,Sold by Brotherhood & Free States & Raider Vendors,true
 311,C.A.M.P,Building,Doors,Painted Wooden Doors,Sold by Brotherhood & Free States & Raider Vendors,true
 312,C.A.M.P,Building,Doors,Wooden Barn Doors,Sold by Brotherhood & Free States & Raider Vendors,true
@@ -509,7 +508,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 509,C.A.M.P,Building,Lights,Honeycomb Paper Spider Lantern,Event: Spooky Scorched,true
 510,C.A.M.P,Building,Lights,Honeycomb Paper Holiday Tree A,Event: Holiday Scorched,true
 511,C.A.M.P,Building,Lights,Honeycomb Paper Holiday Tree B,Event: Holiday Scorched,true
-513,C.A.M.P,Building,Misc. Structures,Honeycomb Paper Icy Snowflake,Event: Holiday Scorched,true
+513,C.A.M.P,Building,Lights,Honeycomb Paper Icy Snowflake,Event: Holiday Scorched,true
 516,C.A.M.P,Building,Lights,Honeycomb Paper Jolly Target,Event: Holiday Scorched,true
 517,C.A.M.P,Building,Lights,Honeycomb Paper Green Mothman,Event: The Mothman Equinox,true
 518,C.A.M.P,Building,Lights,Honeycomb Paper Red Mothman,Event: The Mothman Equinox,true
@@ -3486,7 +3485,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3587,Legendary Mods,,1* Mods,Mutant's,"Scrapping Mutant's Weapons, Armor, Power Armor, or Mod Boxes",true
 3588,Legendary Mods,,1* Mods,Nocturnal,"Scrapping Nocturnal Weapons, Armor, Power Armor, or Mod Boxes",true
 3589,Legendary Mods,,1* Mods,Overeater's,"Scrapping Overeater's Armor, Power Armor, or Mod Boxes",true
-3590,Legendary Mods,,1* Mods,Quad,Scrapping Overeater's Ranged Weapons or Mod Boxes,true
+3590,Legendary Mods,,1* Mods,Quad,Scrapping Quad Ranged Weapons or Mod Boxes,true
 3591,Legendary Mods,,1* Mods,Regenerating,"Scrapping Regenerating Armor, Power Armor, or Mod Boxes",true
 3592,Legendary Mods,,1* Mods,Stalker's,Scrapping Stalker's Ranged Weapons or Mod Boxes,true
 3593,Legendary Mods,,1* Mods,Suppressor's,Scrapping Suppressor's Weapons or Mod Boxes,true
@@ -3803,9 +3802,9 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3905,C.A.M.P,Decorations,Floor Decor,Large Deathclaw Gargoyle Statue,Event: Mischief Night,true
 3906,Mods,Ranged Weapons,MG42 Light Machine Gun,Prime Light Machine Gun .45 Receiver,Drops from Scorchbeast & Scorchbeast Queen,true
 3907,Mods,Ranged Weapons,MG42 Light Machine Gun,Prime Light Machine Gun 5.56 Receiver,Drops from Scorchbeast & Scorchbeast Queen,true
-3908,C.A.M.P,Utilities,Crafting,Cannery,Event: Mischief Night,true
-3909,C.A.M.P,Decorations,Floor Decor,Dirty Pond,Event: Mischief Night,true
-3910,C.A.M.P,Decorations,Floor Decor,Ice Breaker,Event: Mischief Night,true
+3908,C.A.M.P,Utilities,Crafting,Cannery,Sold by Samuel (Settler),true
+3909,C.A.M.P,Decorations,Floor Decor,Dirty Pond,Sold By Samuel (Neighborly),true
+3910,C.A.M.P,Decorations,Floor Decor,Ice Breaker,Sold by Mortimer (Ally),true
 3911,Player,,Titles,Abominable,Scoreboard: Glow of the Ghoul,true
 3912,Player,,Titles,Appalachian,Unlocked by Default,true
 3913,Player,,Titles,Axolotl,Event: Catch Any Axolotl Challenge,true
@@ -3927,3 +3926,51 @@ plan_id,item_type,item_name,section,name,location,obtainable
 4044,Player,,Titles,Workshop,Quest: Claim 21 Workshops,true
 4045,Player,,Titles,Zombie,Scoreboard: Glow of the Ghoul,true
 4046,Player,,Titles,Zookeeper,Event: Project Paradise (All 3 friendly creatures must survive),true
+4047,C.A.M.P,Decorations,Misc. Structures,Civil War Cannon,Event: Sinkhole Solutions,true
+4048,C.A.M.P,Decorations,Misc. Structures,Fort Steuben Sign,Event: Sinkhole Solutions,true
+4049,C.A.M.P,Decorations,Misc. Structures,Heartland Trainyard Sign,Event: Sinkhole Solutions,true
+4050,C.A.M.P,Decorations,Misc. Structures,Highway Town Guns Sign,Event: Sinkhole Solutions,true
+4051,C.A.M.P,Decorations,Misc. Structures,Potted Prickeye,Event: Sinkhole Solutions,true
+4052,C.A.M.P,Decorations,Misc. Structures,Radscorpion Agitator,Event: Sinkhole Solutions,true
+4053,C.A.M.P,Decorations,Misc. Structures,Tycoon Lake Sign,Event: Sinkhole Solutions,true
+4054,C.A.M.P,Decorations,Misc. Structures,Jackson Junkyard Sign,Event: Gearin` Up,true
+4055,C.A.M.P,Decorations,Displays,Mounted Armored Deathclaw Head,Event: Gearin` Up,true
+4056,C.A.M.P,Decorations,Misc. Structures,Trash Cube,Event: Gearin` Up,true
+4057,Weapons,,Melee,Super Stimpike,Event: Gearin` Up,true
+4058,Clothing,Backpack,Backpacks,Egg Carrier Backpack,Event: Gearin` Up,true
+4059,C.A.M.P,Decorations,Floor Decor,Holiday Tree,Event: Holiday Scorched,true
+4060,Paints,,Ranged Weapons,Hunting Rifle Wrapping Paper Paint,Event: Holiday Scorched,true
+4061,C.A.M.P,Decorations,Floor Decor,Dark Hollow Manor Snow Globe,Event: Holiday Scorched,true
+4062,C.A.M.P,Decorations,Floor Decor,Shenendoah Visitor Center Snow Globe,Event: Holiday Scorched,true
+4063,C.A.M.P,Decorations,Floor Decor,Wrapped Presents,Event: Holiday Scorched,true
+4064,C.A.M.P,Decorations,Displays,Holiday Wreath,Event: Holiday Scorched,true
+4065,Paints,Armor,Metal Armor,Metal Armor Snowflakes Paint,Event: Holiday Scorched,true
+4066,C.A.M.P,Decorations,Floor Decor,Camp Liberty Snow Globe,Event: Holiday Scorched,true
+4067,C.A.M.P,Decorations,Floor Decor,High Knob Lookout Snow Globe,Event: Holiday Scorched,true
+4068,C.A.M.P,Decorations,Floor Decor,Slumber Mill Motel Snow Globe,Event: Holiday Scorched,true
+4069,C.A.M.P,Decorations,Misc. Structures,Balloon turbine,Burning Springs challenges,true
+4070,C.A.M.P,Furniture,Beds,Blue tailgate bed,Burning Springs challenges,true
+4071,C.A.M.P,Furniture,Chairs,Car seat stool,Burning Springs challenges,true
+4072,C.A.M.P,Building,Lights,Car strip light,Burning Springs challenges,true
+4073,C.A.M.P,Decorations,Wall Decor,Green wall mounted headlamp,Burning Springs challenges,true
+4074,C.A.M.P,Furniture,Tables,Jeep table,Burning Springs challenges,true
+4075,C.A.M.P,Furniture,Beds,Red tailgate bed,Burning Springs challenges,true
+4076,C.A.M.P,Decorations,Wall Decor,Rusted Abraxodyne sign,Burning Springs challenges,true
+4077,C.A.M.P,Building,Doors,Saloon car doors,Burning Springs challenges,true
+4078,C.A.M.P,Decorations,Wall Decor,Starlight Drive-in movie poster,Burning Springs challenges,true
+4079,C.A.M.P,Furniture,Chairs,Stop sign stool,Burning Springs challenges,true
+4080,C.A.M.P,Furniture,Chairs,Tire bar stool,Burning Springs challenges,true
+4081,Recipes,Consumables,Food,Radhog burnt ends,Burning Springs challenges,true
+4082,C.A.M.P,Decorations,Wall Decor,Welcome to Ohio sign,Quest: Welcoming Committee,true
+4083,C.A.M.P,Decorations,Wall Decor,Highway Town chems store sign,Quest: Might Makes Right,true
+4084,C.A.M.P,Decorations,Wall Decor,Mounted deathclaw matriarch head,Quest: Insurrection,true
+4085,C.A.M.P,Decorations,Misc. Structures,The Rust King's throne,Quest: When the Rust Settles,true
+4086,C.A.M.P,Decorations,Misc. Structures,Abraxodyne truck,Quest: Dirty Laundry,true
+4087,C.A.M.P,Decorations,Floor Decor,Abraxodyne Briefcase,Abraxodyne Intel Briefcase Reward (1 Collected),true
+4088,C.A.M.P,Utilities,Stash Boxes,Abraxodyne Stash Box,Abraxodyne Intel Briefcase Reward (3 Collected),true
+4089,C.A.M.P,Decorations,Floor Decor,Super Duper Mart Cooler,Abraxodyne Intel Briefcase Reward (25 Collected),true
+4090,Weapons,,Ranged,Meadow Breeze Sprayer,Abraxodyne Intel Briefcase Reward (76 Collected),true
+4091,C.A.M.P,Furniture,Shelves,Super Duper Mart Store Shelf,Abraxodyne Intel Briefcase Reward (90 Collected),true
+4092,C.A.M.P,Decorations,Wall Decor,Abraxo HQ Wall Sign,Abraxodyne Intel Briefcase Reward (110 Collected),true
+4093,C.A.M.P,Decorations,Wall Decor,Rusted Abraxodyne Sign,Abraxodyne Intel Briefcase Reward (130 Collected),true
+4094,Weapons,,Ranged,Prototype ABX03,Abraxodyne Intel Briefcase Reward (145 Collected),true
