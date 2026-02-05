@@ -3927,7 +3927,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 4046,Player,,Titles,Zookeeper,Event: Project Paradise (All 3 friendly creatures must survive),true
 4047,C.A.M.P,Decorations,Misc. Structures,Civil War Cannon,Event: Sinkhole Solutions,true
 4048,C.A.M.P,Decorations,Misc. Structures,Fort Steuben Sign,Event: Sinkhole Solutions,true
-4049,C.A.M.P,Decorations,Misc. Structures,Heartland Trainyard Sign,Event: Sinkhole Solutions,true
+4049,C.A.M.P,Decorations,Misc. Structures,Heartland Eastern Rail Sign,Event: Sinkhole Solutions,true
 4050,C.A.M.P,Decorations,Misc. Structures,Highway Town Guns Sign,Event: Sinkhole Solutions,true
 4051,C.A.M.P,Decorations,Misc. Structures,Potted Prickeye,Event: Sinkhole Solutions,true
 4052,C.A.M.P,Decorations,Misc. Structures,Radscorpion Agitator,Event: Sinkhole Solutions,true
@@ -3976,3 +3976,4 @@ plan_id,item_type,item_name,section,name,location,obtainable
 4095,Clothing,Accessories,Outfits,Rust Raider Light Outfit,Quest: Welcoming Committee,true
 4096,Clothing,Accessories,Headwear,Deathclaw Tamer Hat,Event: Gearin` Up,true
 4097,Clothing,Accessories,Outfits,Deathclaw Tamer Outfit,Event: Gearin` Up,true
+4098,Recipes,Consumables,Food,Delbert's delicious deerskins,Wavy Willard's Water Park Concession Stand,true
