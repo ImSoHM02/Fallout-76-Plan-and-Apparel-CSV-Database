@@ -3247,7 +3247,6 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3337,Unobtainables,Cut Recipe,Plans,Scanning Module,Cut Plan,false
 3338,Unobtainables,Cut Recipe,Plans,Smart Frag Grenade,Cut Plan,false
 3339,Unobtainables,Cut Recipe,Plans,Smoke Grenade,Cut Plan,false
-3340,Unobtainables,Cut Recipe,Plans,Snowflakes Metal Armor Paint,Cut Plan,false
 3341,Unobtainables,Cut Recipe,Plans,Soundmaker,Cut Plan,false
 3342,Unobtainables,Cut Recipe,Plans,Spiked Paddle Ball,Cut Plan,false
 3343,Unobtainables,Moved to Atomic Shop,Plans,Spy Outfit,Moved to Atomic Shop,false
@@ -3974,3 +3973,6 @@ plan_id,item_type,item_name,section,name,location,obtainable
 4092,C.A.M.P,Decorations,Wall Decor,Abraxo HQ Wall Sign,Abraxodyne Intel Briefcase Reward (110 Collected),true
 4093,C.A.M.P,Decorations,Wall Decor,Rusted Abraxodyne Sign,Abraxodyne Intel Briefcase Reward (130 Collected),true
 4094,Weapons,,Ranged,Prototype ABX03,Abraxodyne Intel Briefcase Reward (145 Collected),true
+4095,Clothing,Accessories,Outfits,Rust Raider Light Outfit,Quest: Welcoming Committee,true
+4096,Clothing,Accessories,Headwear,Deathclaw Tamer Hat,Event: Gearin` Up,true
+4097,Clothing,Accessories,Outfits,Deathclaw Tamer Outfit,Event: Gearin` Up,true
