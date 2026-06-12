@@ -233,8 +233,8 @@ plan_id,item_type,item_name,section,name,location,obtainable
 232,C.A.M.P,Furniture,Beds,Clean Blue Ridge Sleeping Bag,Quest: Costa Business (Rudy),true
 233,C.A.M.P,Furniture,Beds,Hospital Bed,Sold By Responder Vendors & Grahm,true
 234,C.A.M.P,Furniture,Beds,Military Cot,Random Workshop Plans & Events: Any Region | Sold By Brotherhood Vendors & Grahm,true
-235,C.A.M.P,Furniture,Beds,Vault-Tec Bed,Sold by Pendleton | Sold By Grahm,true
-236,C.A.M.P,Furniture,Beds,Vault-Tec Bed 2,Sold by Pendleton | Sold By Grahm,true
+235,C.A.M.P,Furniture,Beds,Simple Bed,Sold by Pendleton | Sold By Grahm,true
+236,C.A.M.P,Furniture,Beds,Simple Made Bed,Sold by Pendleton | Sold By Grahm,true
 237,C.A.M.P,Furniture,Beds,Bed of Nails,Event: Treasure Hunter,true
 238,C.A.M.P,Furniture,Beds,Kids Truck Bed,Daily Ops (Uncommon),true
 239,C.A.M.P,Furniture,Beds,Bunk Bed,Sold by Pendleton | Sold By Grahm,true
@@ -2481,7 +2481,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 2557,Mods,Ranged Weapons,Plasma Caster,Plasma Caster Pulse Capacitor,"Sold by Regs, & Minerva (Lists 9 & 12)",true
 2558,Mods,Ranged Weapons,Plasma Caster,Plasma Caster True Capacitor,"Sold by Regs, & Minerva (Lists 11 & 12)",true
 2559,Mods,Ranged Weapons,Plasma Caster,Plasma Caster Aligned Sniper Barrel,"Sold by Regs, & Minerva (Lists 9 & 12)",true
-2560,Mods,Ranged Weapons,Plasma Caster,Plasma Caster True Long Barrel,"Sold by Regs, & Minerva (Lists 11 & 12)",true
+2560,Mods,Ranged Weapons,Plasma Caster,Plasma Caster Signal Dish Barrel,"Sold by Regs, & Minerva (Lists 11 & 12)",true
 2561,Mods,Ranged Weapons,Plasma Gun,Plasma Gun Calibrated Beta Wave Tuner,"Sold by: Ash Heap, Cranberry Bog, & Mire Savage Divide Vendors",true
 2562,Mods,Ranged Weapons,Plasma Gun,Calibrated Capacitor,Learn from scrapping: Plasma Gun,true
 2563,Mods,Ranged Weapons,Plasma Gun,Gamma Wave Emitter,Learn from scrapping: Plasma Gun,true
@@ -3422,13 +3422,13 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3525,C.A.M.P,Decorations,Floor Decor,Camp Liberty Snow Globe,Sold by Ineke @ Tier 3,true
 3526,C.A.M.P,Decorations,Floor Decor,Dark Hollow Manor Snow Globe,Sold by Ineke @ Tier 3,true
 3527,C.A.M.P,Decorations,Floor Decor,High Knob Lookout Snow Globe,Sold by Ineke @ Tier 3,true
-3528,C.A.M.P,Decorations,Floor Decor,Josie's Snow Globe,Given by Josie @ tier 2 after being given Addictol or Calmex,true
-3529,C.A.M.P,Decorations,Floor Decor,Marley's Snow Globe,Received after hiring first vendor,true
-3530,C.A.M.P,Decorations,Floor Decor,Rolled Persian Rugs,Sold by Ineke @ Tier 1,true
+3528,C.A.M.P,Decorations,Floor Decor,Josie's Snow Globe,Given by Josie @ tier 2 after being given Addictol or Calmex & Sold by Windy (50 Gold),true
+3529,C.A.M.P,Decorations,Floor Decor,Marley's Snow Globe,Received after hiring first vendor & Sold by Windy (50 Gold),true
+3530,C.A.M.P,Decorations,Floor Decor,Rolled Persian Rugs,Sold by Ineke @ Tier 1 & Windy (50 Gold),true
 3531,C.A.M.P,Decorations,Floor Decor,Shenandoah Vistor Center Snow Globe,Sold by Ineke @ Tier 3,true
 3532,C.A.M.P,Decorations,Floor Decor,Slumber Mill Motel Snow Globe,Sold by Ineke @ Tier 3,true
 3533,C.A.M.P,Decorations,Floor Decor,Stargazer's Telescope,Sold by Ineke @ Tier 2,true
-3534,C.A.M.P,Decorations,Floor Decor,Theodore's Snow Globe,Quest: Unconventional Weaponry,true
+3534,C.A.M.P,Decorations,Floor Decor,Theodore's Snow Globe,Quest: Unconventional Weaponry & Sold by Windy (50 Gold),true
 3535,C.A.M.P,Decorations,Misc. Structures,Makeshift Wine Rack,Sold by Ineke @ Tier 1,true
 3536,C.A.M.P,Decorations,Wall Decor,Noren Awning,Sold by Ineke @ Tier 2,true
 3537,C.A.M.P,Decorations,Wall Decor,Noren Curtains,Sold by Ineke @ Tier 1,true
@@ -3459,7 +3459,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3562,C.A.M.P,Building,Lights,Mothman Jack-O-Lite,Event: Spooky Scorched,true
 3563,C.A.M.P,Building,Lights,Rusted Sheepsquatch Jack-O-Lite,Event: Spooky Scorched,true
 3564,C.A.M.P,Building,Lights,Sheepsquatch Jack-O-Lite,Event: Spooky Scorched,true
-3565,C.A.M.P,Decorations,Floor Decor,Axel's snow globe,Changing themes at Tier 3,true
+3565,C.A.M.P,Decorations,Floor Decor,Axel's snow globe,Changing themes at Tier 3 & Sold by Windy (50 gold),true
 3566,Legendary Mods,,1* Mods,Anti-armor,Scrapping Anti-armor Weapons or Mod Boxes,true
 3567,Legendary Mods,,1* Mods,Aristocrat's,"Scrapping Aristocrat's Weapons, Armor, Power Armor, or Mod Boxes",true
 3568,Legendary Mods,,1* Mods,Assassin's,"Scrapping Assassin's Weapons, Armor, Power Armor, or Mod Boxes",true
@@ -3750,7 +3750,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3854,Mods,Tools,Fishing Rod,Crimson Stripe Float,Fishing Challenge Reward,true
 3855,Mods,Tools,Fishing Rod,Festive Float,Fishing Challenge Reward,true
 3856,C.A.M.P,Decorations,Displays,Fish Display Plaque,Fishing Challenge Reward,true
-3857,C.A.M.P,Utilities,Crafting,Fishermans Cooking Station,Fishing Challenge Reward,true
+3857,C.A.M.P,Utilities,Crafting,Fisherman's Cooking Station,Fishing Challenge Reward,true
 3858,Mods,Tools,Fishing Rod,Flamewood Float,Fishing Challenge Reward,true
 3859,C.A.M.P,Decorations,Wall Decor,Kelp Curtain,Fishing Challenge Reward,true
 3860,Utilities,,Fishing Rod,Makeshift Rod,Fishing Challenge Reward,true
@@ -3862,7 +3862,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3972,Player,,Titles,Brotherhood Initiate,Quest: Field Testing,true
 3974,Player,,Titles,Camper,Scoreboard: Skyline Valley (Rank 100),true
 3975,Player,,Titles,Cannibal,Scoreboard: Glow of the Ghoul,true
-3976,Player,,Titles,Carnivore,Event Meat Week (Best result in Grahm's Meat-Cook),true
+3976,Player,,Titles,Carnivore,Event: Meat Week (Best result in Grahm's Meat-Cook),true
 3977,Player,,Titles,Cattle Rustler,Event: Free Range (All 3 Brahmin alive),true
 3978,Player,,Titles,Cold Steel,Scoreboard: Cold Steel (Rank 100),true
 3979,Player,,Titles,Commoner,Unlocked by Default,true
@@ -3954,7 +3954,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 4074,C.A.M.P,Furniture,Tables,Jeep table,Burning Springs challenges,true
 4075,C.A.M.P,Furniture,Beds,Red tailgate bed,Burning Springs challenges,true
 4076,C.A.M.P,Decorations,Wall Decor,Rusted Abraxodyne sign,Burning Springs challenges,true
-4077,C.A.M.P,Building,Doors,Saloon car doors,Burning Springs challenges,true
+4077,C.A.M.P,Building,Doors,Car Saloon Doors,Burning Springs challenges,true
 4078,C.A.M.P,Decorations,Wall Decor,Starlight Drive-in movie poster,Burning Springs challenges,true
 4079,C.A.M.P,Furniture,Chairs,Stop sign stool,Burning Springs challenges,true
 4080,C.A.M.P,Furniture,Chairs,Tire bar stool,Burning Springs challenges,true
@@ -3974,13 +3974,34 @@ plan_id,item_type,item_name,section,name,location,obtainable
 4096,Clothing,Accessories,Headwear,Deathclaw Tamer Hat,Event: Gearin` Up,true
 4097,Clothing,Accessories,Outfits,Deathclaw Tamer Outfit,Event: Gearin` Up,true
 4098,Recipes,Consumables,Food,Delbert's delicious deerskins,Wavy Willard's Water Park Concession Stand,true
-4099,Mods,Melee Weapons,Chainsaw,Long Bow Bar,Vendor: Spint,true
-4100,Clothing,Backpack,Backpacks,Deathclaw Head Backpack,Vendor: Windy,true
-4101,Clothing,Accessories,Outfits,Deathclaw Skin Outfit,Vendor: Windy,true
-4102,C.A.M.P,Decorations,Floor Decor,Gulper Plushie,Vendor: Windy,true
-4103,Clothing,Accessories,Headwear,Gulper Skin Hood,Vendor: Windy,true
-4104,Clothing,Accessories,Outfits,Gulper Skin Outfit,Vendor: Windy,true
-4105,Clothing,Accessories,Outfits,Hunter's Hanbok Outfit,Vendor: Windy,true
-4106,C.A.M.P,Furniture,Chairs,Ogua Shell Throne,Vendor: Windy,true
-4107,Clothing,Backpack,Flairs,Pheasant Foot Backpack Flair,Vendor: Windy,true
-4108,C.A.M.P,Decorations,Floor Decor,Windy's Snow Globe,Vendor: Windy,true
+4099,Mods,Melee Weapons,Chainsaw,Long Bow Bar,Sold by Spint,true
+4100,Clothing,Backpack,Backpacks,Deathclaw Head Backpack,Sold by Windy (1000 Gold),true
+4101,Clothing,Accessories,Outfits,Deathclaw Skin Outfit,Sold by Windy (500 Gold),true
+4102,C.A.M.P,Decorations,Floor Decor,Gulper Plushie,Sold by Windy (100 Gold),true
+4103,Clothing,Accessories,Headwear,Gulper Skin Hood,Sold by Windy (150 Gold),true
+4104,Clothing,Accessories,Outfits,Gulper Skin Outfit,Sold by Windy (350 Gold),true
+4105,Clothing,Accessories,Outfits,Hunter's Hanbok Outfit,Sold by Windy (500 Gold),true
+4106,C.A.M.P,Furniture,Chairs,Ogua Shell Throne,Sold by Windy (500 Gold),true
+4107,Clothing,Backpack,Flairs,Pheasant Foot Backpack Flair,Sold by Windy (150 Gold),true
+4108,C.A.M.P,Decorations,Floor Decor,Windy's Snow Globe,Sold by Windy (50 Gold),true
+4109,Clothing,Styles,Underarmor,Brotherhood Underarmor Style,Event: Test your Metal (Best) (5%) or Line in the Sand (5%),true
+4110,Clothing,Styles,Underarmor,Casual Underarmor Style,"Event: Neurological Warfare (5%), A Colossal Problem (5%), Seismic Activity (5%), or Scorched Earth (5%)",true
+4111,Clothing,Styles,Underarmor,Civil Engineer Underarmor Style,Atlantic City: The Human Condition (once weekly),true
+4112,Clothing,Styles,Underarmor,Marine Underarmor Style,Mutated Events & Atlantic City: Most sensational Game (once weekly),true
+4113,Clothing,Styles,Underarmor,Operative Underarmor Style,Enclave Activities (5%),true
+4114,Clothing,Styles,Underarmor,Raider Underarmor Style,Event: Moonshine Jamboree (5%),true
+4115,Clothing,Styles,Underarmor,Secret Service Underarmor Style,Sold by Regs (500 Gold),true
+4116,Clothing,Styles,Underarmor,Vault Suit Underarmor Style,Sold by Regs (500 Gold),true
+4117,Paints,,Ranged Weapons,Assault Rifle Bat,Event: Spooky Scorched,true
+4118,Paints,,Ranged Weapons,10mm Halloween,Event: Spooky Scorched,true
+4119,Paints,,Ranged Weapons,Combat Rifle Jack O' Lantern,Event: Spooky Scorched,true
+4120,C.A.M.P,Decorations,Floor Decor,Garden Stein,Event: Big Bloom,true
+4121,Mods,Ranged Weapons,Plasma Caster,Plasma Caster Aligned Sniper Barrel,Sold by Regs (150 Gold) & Minerva 9 (150 Gold),true
+4122,Weapons,Ranged,Machined Guns,Dom Pedro, Sold by Windy (2000 Gold),true
+4123,Mods,Ranged Weapons,Dom Pedro,Dom Pedro Explosive Mods,Sold by Windy (750 Gold),true
+4124,Mods,Ranged Weapons,Dom Pedro,Dom Pedro Grip Mods,Sold by Windy (750 Gold),true
+4125,Mods,Ranged Weapons,Dom Pedro,Dom Pedro Magazine Mods,Sold by Windy (750 Gold),true
+4126,Mods,Ranged Weapons,Dom Pedro,Dom Pedro Receiver Mods,Sold by Windy (750 Gold),true
+4127,Mods,Ranged Weapons,Dom Pedro,Dom Pedro Sight Mods,Sold by Windy (750 Gold),true
+4128,Mods,Ranged Weapons,Dom Pedro,Dom Pedro Stock 1 Mods,Sold by Windy (750 Gold),true
+4129,Mods,Ranged Weapons,Dom Pedro,Dom Pedro Stock 2 Mods,Sold by Windy (750 Gold),true
