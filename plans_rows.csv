@@ -289,7 +289,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 288,C.A.M.P,Utilities,Crafting,Chuckwagon Cooking Station,Sold by Mortimer (Cautious),true
 289,C.A.M.P,Utilities,Crafting,Tinker's Workbench,Quest: Second Helpings| Sold By Responder Vendors,true
 290,C.A.M.P,Utilities,Crafting,Chemistry Workbench,Quest: Thirst Things First| Sold By Responder Vendors,true
-291,C.A.M.P,Utilities,Crafting,Brewing Station & Fermenter,Quest: Wasted on Nukashine,true
+291,C.A.M.P,Utilities,Crafting,Brewing Station,Quest: Wasted on Nukashine,true
 292,C.A.M.P,Utilities,Crafting,Power Armor Stations,Quest: Miner Miracles| Sold By Brotherhood Vendors & MODUS Production Terminal,true
 293,C.A.M.P,Structures,Defences,Paddock Gate,Event: Safe & Sound,true
 294,C.A.M.P,Structures,Defences,Barbed Wire Fences,Event: Holiday Scorched,true
@@ -336,7 +336,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 336,C.A.M.P,Decorations,Floor Decor,Blue Ridge Toy Truck,Quest: Costa Business (Kieran),true
 337,C.A.M.P,Decorations,Floor Decor,Blue Ridge Rug,Event: Safe & Sound,true
 338,C.A.M.P,Decorations,Floor Decor,Sacred Mothman Tome,Event: The Mothman Equinox,true
-339,C.A.M.P,Decorations,Floor Decor,Straw Goat,Event: Holiday Scorched,true
+339,Unobtainables,Cut Recipe,Plans,Straw Goat,Cut Plan,false
 340,C.A.M.P,Decorations,Floor Decor,Asteroid,Event: Invaders From Beyond,true
 341,C.A.M.P,Decorations,Floor Decor,Pioneer Scout Banner: Possum,Sold by Possum Vending Machine,true
 342,C.A.M.P,Decorations,Floor Decor,Pioneer Scout Banner: Tadpole,Sold by Tadpole Vending Machine,true
@@ -614,8 +614,8 @@ plan_id,item_type,item_name,section,name,location,obtainable
 624,C.A.M.P,Utilities,Resources,Nuka-Cola Collectron,Sold by Samuel (Cautious),true
 625,C.A.M.P,Utilities,Resources,Red Rocket Collectron,Sold by Samuel (Cautious),true
 626,C.A.M.P,Utilities,Resources,F.E.T.C.H Collectron,Sold by Samuel (Ally),true
-627,C.A.M.P,Utilities,Resources,Silver Collectron,Sold bt Samuel (Cautious),true
-628,C.A.M.P,Utilities,Resources,Auto-Miner Collectron,Sold bt Samuel (Cautious),true
+627,C.A.M.P,Utilities,Resources,Silver Collectron,Sold by Samuel (Cautious),true
+628,C.A.M.P,Utilities,Resources,Auto-Miner Collectron,Sold by Samuel (Cautious),true
 629,C.A.M.P,Utilities,Resources,Ammo Converter,Sold by Mortimer (Cautious) & Minerva (Lists 7 & 8),true
 630,C.A.M.P,Utilities,Resources,Nuka-Cola Mystery Machine,Sold by Mortimer (Cautious),true
 631,C.A.M.P,Utilities,Resources,Nuka-Cola Quantum Collector,Sold by Samuel (Cautious),true
@@ -628,7 +628,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 638,C.A.M.P,Building,Stairs,Vault Stairs (Vault Building Set),Quest: Home Expansion,true
 639,C.A.M.P,Utilities,Stash Boxes,File Cabinets,Random Workshop Plans & Events: Any Region | Sold By Grahm,true
 640,C.A.M.P,Utilities,Stash Boxes,Small Supply Crate,Event: Treasure Hunter,true
-641,C.A.M.P,Utilities,Stash Boxes,Medium Supply Crate,Sold by Minerva (Lists 21 & 24),true
+641,C.A.M.P,Utilities,Stash Boxes,Medium Supply Crate,Sold by Minerva (Lists 21 & 24) | Daily Ops: The Slasher,true
 642,C.A.M.P,Utilities,Stash Boxes,Large Supply Crate,Event: A Colossal Problem,true
 643,C.A.M.P,Utilities,Stash Boxes,Pioneer Scout Stash Box,Sold by Possum Vending Machine,true
 644,C.A.M.P,Utilities,Stash Boxes,Vault 94 Stash Box,Daily Ops (Uncommon),true
@@ -851,7 +851,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 864,Clothing,Accessories,Headwear,Cultist Eventide Hood,Event: The Mothman Equinox,true
 865,Clothing,Accessories,Headwear,Cultist Neophyte Hood,Event: The Mothman Equinox,true
 866,Clothing,Accessories,Headwear,Deputy's Hat,Event: Most Wanted,true
-867,Clothing,Accessories,Headwear,Enforcer's Cap,Weekly Expedition Reward: The Human Condition,true
+867,Unobtainables,Cut Recipe,Plans,Enforcer's Cap,Cut Plan,false
 868,Clothing,Accessories,Headwear,Executioner Mask,Event: Spooky Scorched,true
 869,Clothing,Accessories,Headwear,Gladiator Mask,Event: Project Paradise,true
 870,Clothing,Accessories,Headwear,Costume Witch Hat,Random Encounter (Witch Trick-or-Treater) | Mutated Event Packages,true
@@ -859,7 +859,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 872,Clothing,Accessories,Headwear,Insurgent Hat,Event: Treasure Hunter,true
 873,Clothing,Accessories,Headwear,Apocalyptic Farmer Headwear,Weekly Expedition Reward: The Human Condition | Sold By Giuseppe,true
 874,Clothing,Accessories,Headwear,Milkman Hat,Event: Safe & Sound,true
-875,Clothing,Accessories,Headwear,Muni Headwear,Weekly Expedition Reward: The Human Condition,true
+875,Unobtainables,Cut Recipe,Plans,Muni Headwear,Cut Plan,false
 876,Clothing,Accessories,Headwear,Nuka-World Cowboy Hat,Event: Most Wanted,true
 877,Clothing,Accessories,Headwear,Ogua Hunter Hood,Event: Beasts of Burden,true
 878,Clothing,Accessories,Headwear,Sheriff's Hat,Event: Most Wanted,true
@@ -1012,7 +1012,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 1033,Mods,Armor,Botsmith Robot Armor,Polished Metal Robot Chest,Learn from scrapping: Botsmith Robot Armor,true
 1034,Mods,Armor,Botsmith Robot Armor,Shadowed Robot Armor Chest,Sold by Ash Heap/Mire/Savage Divide Vendors,true
 1035,Mods,Armor,Botsmith Robot Armor,Asbestos Lining Robot Chest,Learn from scrapping: Botsmith Robot Armor,true
-1036,Mods,Armor,Botsmith Robot Armor,BioCommMesh Robot Armor Chest,Sold by Ash Heap/Mire/Savage Divide Vendors,true
+1036,Mods,Armor,Botsmith Robot Armor,BioCommMesh Robot Armor Lining,Sold by Ash Heap/Mire/Savage Divide Vendors,true
 1037,Mods,Armor,Botsmith Robot Armor,Deep Pocketed Robot Armor Chest,Sold by Ash Heap/Mire/Savage Divide Vendors,true
 1038,Mods,Armor,Botsmith Robot Armor,Dense Robot Armor Lining,Sold by Ash Heap/Mire/Savage Divide Vendors,true
 1039,Mods,Armor,Botsmith Robot Armor,Lead Lined Robot Chest,Learn from scrapping: Botsmith Robot Armor,true
@@ -1337,7 +1337,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 1413,Mods,Melee Weapons,Auto Axe,Auto Axe Poisoned Mod,Sold by Giuseppe,true
 1414,Mods,Melee Weapons,Auto Axe,Auto Axe Turbo Mod,Sold by Giuseppe,true
 1415,Mods,Melee Weapons,Baseball Bat,Bladed,Learn from scrapping: Baseball Bat,true
-1416,Mods,Melee Weapons,Baseball Bat,Bladed Rocket,Learn from scrapping: Baseball Bat,true
+1416,Mods,Melee Weapons,Baseball Bat,Sharp Rocket,Learn from scrapping: Baseball Bat,true
 1417,Mods,Melee Weapons,Baseball Bat,Chain-Wrapped,Learn from scrapping: Baseball Bat,true
 1418,Mods,Melee Weapons,Baseball Bat,Baseball bat Heated Coil,Generic Events & Quests: Savage Divide & Toxic Valley,true
 1419,Mods,Melee Weapons,Baseball Bat,Heated Rocket,Learn from scrapping: Baseball Bat,true
@@ -1756,7 +1756,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 1832,Mods,Ranged Weapons,10mm Pistol,Standard Glow Sights,Learn from scrapping: 10mm Pistol,true
 1833,Mods,Ranged Weapons,10mm Pistol,Standard Recon Scope,Learn from scrapping: 10mm Pistol,true
 1834,Mods,Ranged Weapons,10mm Pistol,Compensator,Learn from scrapping: 10mm Pistol,true
-1835,Mods,Ranged Weapons,10mm Pistol,Muzzle Break,Learn from scrapping: 10mm Pistol,true
+1835,Mods,Ranged Weapons,10mm Pistol,Muzzle Brake,Learn from scrapping: 10mm Pistol,true
 1836,Mods,Ranged Weapons,10mm Pistol,Suppressor,Learn from scrapping: 10mm Pistol,true
 1837,Mods,Ranged Weapons,10mm Submachine Gun,Calibrated Receiver,Learn from scrapping: 10mm SMG,true
 1838,Mods,Ranged Weapons,10mm Submachine Gun,Hardened Receiver,Learn from scrapping: 10mm SMG,true
@@ -1838,7 +1838,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 1914,Mods,Ranged Weapons,Assault Rifle,Short Recon Scope,Learn from scrapping: Assault Rifle,true
 1915,Mods,Ranged Weapons,Assault Rifle,Short Scope,Learn from scrapping: Assault Rifle,true
 1916,Mods,Ranged Weapons,Assault Rifle,Compensator,Learn from scrapping: Assault Rifle,true
-1917,Mods,Ranged Weapons,Assault Rifle,Muzzle Break,Learn from scrapping: Assault Rifle,true
+1917,Mods,Ranged Weapons,Assault Rifle,Muzzle Brake,Learn from scrapping: Assault Rifle,true
 1918,Mods,Ranged Weapons,Assault Rifle,Suppressor,Learn from scrapping: Assault Rifle,true
 1919,Mods,Ranged Weapons,Auto Grenade Launcher,Heavy Barrel,Learn from scrapping: AGL,true
 1920,Mods,Ranged Weapons,Auto Grenade Launcher,Long Barrel,Learn from scrapping: AGL,true
@@ -1850,7 +1850,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 1926,Mods,Ranged Weapons,Bow,Bow Poison Arrows,Sold by Ae-Ri (Friendly) & Sunny (Friendly),true
 1927,Mods,Ranged Weapons,Bow,Bow Ultracite Arrows,Sold by Ae-Ri (Friendly) & Sunny (Friendly),true
 1928,Mods,Ranged Weapons,Bow,Bow Glow Sights,Sold by Ae-Ri (Friendly) & Sunny (Friendly),true
-1929,Mods,Ranged Weapons,Broadsider,Light Barrel,Learn from scrapping: Broadsider,true
+1929,Legacy Plans,,Removed From Game,Broadsider Light Barrel,N/A,false
 1930,Mods,Ranged Weapons,Broadsider,Comfort Grip,Learn from scrapping: Broadsider,true
 1931,Mods,Ranged Weapons,Broadsider,Broadsider Multi Shot Canister,"Sold by: Ash Heap, Cranberry Bog, Mire, & Savage Divide Vendors",true
 1932,Mods,Ranged Weapons,Combat Rifle,Combat Rifle .38 Receiver,"Sold by: Ash Heap, Cranberry Bog, Mire, & Savage Divide Vendors",true
@@ -2151,7 +2151,7 @@ plan_id,item_type,item_name,section,name,location,obtainable
 2227,Mods,Ranged Weapons,Harpoon Gun,Harpoon Gun Flechettes,"Sold by: Cranberry Bog, Mire, & Savage Divide Vendors",true
 2228,Mods,Ranged Weapons,Harpoon Gun,Reflex Sight,Learn from scrapping: Harpoon Gun,true
 2229,Mods,Ranged Weapons,Harpoon Gun,Short Scope,Learn from scrapping: Harpoon Gun,true
-2230,Mods,Ranged Weapons,Hellstorm Missile Launcher,Hellstorm Missile Launcher Cyro Payload,"Sold by Regs, & Minerva (Lists 14 & 16)",true
+2230,Mods,Ranged Weapons,Hellstorm Missile Launcher,Hellstorm Missile Launcher Cryo Payload,"Sold by Regs, & Minerva (Lists 14 & 16)",true
 2231,Mods,Ranged Weapons,Hellstorm Missile Launcher,Hellstorm Missile Launcher Enhanced Blast Payload,Sold by Regs,true
 2232,Mods,Ranged Weapons,Hellstorm Missile Launcher,Hellstorm Missile Launcher Napalm Payload,"Sold by Regs, & Minerva (Lists 14 & 16)",true
 2233,Mods,Ranged Weapons,Hellstorm Missile Launcher,Hellstorm Missile Launcher Plasma Payload,"Sold by Regs, & Minerva (Lists 14 & 16)",true
@@ -3211,15 +3211,15 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3302,Unobtainables,Cut Recipe,Plans,Frame Backpack,Cut Plan,false
 3303,Unobtainables,Cut Recipe,Plans,Fur-lined Jacket and Jeans,Cut Plan,false
 3304,Unobtainables,Cut Recipe,Plans,Gauss Minigun Hex Barrel,Cut Plan,false
-3305,Unobtainables,Cut Recipe,Plans,Ghillie Suit Hood,Cut Plan,false
-3306,Unobtainables,Cut Recipe,Plans,Ghillie Suit,Cut Plan,false
-3307,Unobtainables,Cut Recipe,Plans,Glowing Skeleton Hood,Cut Plan,false
-3308,Unobtainables,Cut Recipe,Plans,Glowing Skeleton Costume,Cut Plan,false
+3305,Clothing,Accessories,Headwear,Ghillie Suit Hood,Event: Spooky Scorched (only while wearing Slasher headwear),true
+3306,Clothing,Accessories,Outfits,Ghillie Suit,Event: Spooky Scorched (only while wearing Slasher headwear),true
+3307,Clothing,Accessories,Headwear,Glowing Skeleton Hood,Event: Mischief Night,true
+3308,Clothing,Accessories,Outfits,Glowing Skeleton Costume,Event: Mischief Night,true
 3309,Unobtainables,Cut Recipe,Plans,Guard's Restock Kit,Cut Plan,false
 3310,Unobtainables,Cut Recipe,Plans,Hot Rod Flames Paint (Power Armor),Cut Plan,false
 3311,Unobtainables,Cut Recipe,Plans,Hot Rod Hot Pink Paint (Power Armor),Cut Plan,false
 3312,Unobtainables,Cut Recipe,Plans,Hot Rod Shark Paint (Power Armor),Cut Plan,false
-3313,Unobtainables,Cut Recipe,Plans,Jack O ' Lantern Combat Armor Paint,Cut Plan,false
+3313,Paints,Armor,Combat Armor,Combat Armor Jack O' Lantern Paint,Event: Mischief Night,true
 3314,Unobtainables,Cut Recipe,Plans,Laser Musket,Cut Plan,false
 3315,Unobtainables,Cut Recipe,Plans,Laser Musket Long NV Scope,Cut Plan,false
 3316,Unobtainables,Cut Recipe,Plans,Laser Musket Medium NV Scope,Cut Plan,false
@@ -3229,8 +3229,8 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3320,Unobtainables,Cut Recipe,Plans,Marine Camouflage Combat Armor Paint,Cut Plan,false
 3321,Unobtainables,Loose Mod Only,Plans,Medium Night Vision Scope (Enclave Plasma),Loose Mod Only,false
 3322,Unobtainables,Cut Recipe,Plans,Mounted Mirelurk Queen Claw,Cut Plan,false
-3323,Unobtainables,Cut Recipe,Plans,Nuclear Winter Beanie,Cut Plan,false
-3324,Unobtainables,Cut Recipe,Plans,Nuclear Winter Letterman Jacket,Cut Plan,false
+3323,Clothing,Accessories,Headwear,Nuclear Winter Beanie,Event: Holiday Scorched,true
+3324,Clothing,Accessories,Outfits,Nuclear Winter Letterman Jacket,Event: Spooky Scorched (only while wearing Slasher headwear),true
 3325,Unobtainables,Cut Recipe,Plans,Nuclear Winter Tracksuit,Cut Plan,false
 3326,Unobtainables,Cut Recipe,Plans,Nuka Cherry Grenade,Cut Plan,false
 3327,Unobtainables,Cut Recipe,Plans,Nuka-World Cowboy Chaps,Cut Plan,false
@@ -3749,8 +3749,8 @@ plan_id,item_type,item_name,section,name,location,obtainable
 3853,C.A.M.P,Decorations,Floor Decor,Crab Boat Plushie,Fishing Challenge Reward,true
 3854,Mods,Tools,Fishing Rod,Crimson Stripe Float,Fishing Challenge Reward,true
 3855,Mods,Tools,Fishing Rod,Festive Float,Fishing Challenge Reward,true
-3856,C.A.M.P,Decorations,Displays,Fish Display Plaque,Fishing Challenge Reward,true
-3857,C.A.M.P,Utilities,Crafting,Fisherman's Cooking Station,Fishing Challenge Reward,true
+3856,C.A.M.P,Decorations,Displays,Fish Display Plaque,Fishing Challenge: Catch Any Local Legend,true
+3857,C.A.M.P,Utilities,Crafting,Fisherman's Cooking Station,Fishing Challenge: Catch Any Fish,true
 3858,Mods,Tools,Fishing Rod,Flamewood Float,Fishing Challenge Reward,true
 3859,C.A.M.P,Decorations,Wall Decor,Kelp Curtain,Fishing Challenge Reward,true
 3860,Utilities,,Fishing Rod,Makeshift Rod,Fishing Challenge Reward,true
@@ -4019,3 +4019,205 @@ plan_id,item_type,item_name,section,name,location,obtainable
 4141,Legendary Mods,,3* Mods,Glowing,Bounty Hunting: Head Hunt & Bounty Hunting: Grunt Hunt (1 Bobblehead: Science),true
 4142,Legendary Mods,,3* Mods,Healthy,Bounty Hunting: Head Hunt & Bounty Hunting: Grunt Hunt (1 Bobblehead: Endurance),true
 4143,Legendary Mods,,3* Mods,Reflex,Bounty Hunting: Head Hunt & Bounty Hunting: Grunt Hunt (1 Bobblehead: Agility),true
+4144,C.A.M.P,Building,Lights,Antler Chandelier,Daily Ops: The Slasher,true
+4145,Weapons,Melee,Blunt Weapons,Commie Whacker,Daily Ops (Rare) | Drops from: Liberators,true
+4146,Paints,,Melee Weapons,Face Breaker Paint,Daily Ops (Rare),true
+4147,Paints,,Ranged Weapons,Fancy Pump Action Shotgun Paint,Daily Ops (Rare),true
+4148,Paints,,Ranged Weapons,Fancy Single Action Revolver Paint,Daily Ops (Rare),true
+4149,Paints,,Melee Weapons,Mechanic's Best Friend Paint,Daily Ops (Rare),true
+4150,Paints,,Ranged Weapons,Medical Malpractice Paint,Daily Ops (Rare),true
+4151,Clothing,Accessories,Headwear,Pint-Sized Slasher Hat - Blue,Daily Ops: The Slasher,true
+4152,Clothing,Accessories,Headwear,Pint-Sized Slasher Hat - Green,Daily Ops: The Slasher,true
+4153,Clothing,Accessories,Headwear,Pint-Sized Slasher Hat - Orange,Daily Ops: The Slasher,true
+4154,Clothing,Accessories,Headwear,Pint-Sized Slasher Hat - Red,Daily Ops: The Slasher,true
+4155,Mods,Ranged Weapons,Railway Rifle,Railway Rifle Shotgun Receiver,Daily Ops | Random Weapon Plans: Any Region,true
+4156,C.A.M.P,Decorations,Floor Decor,Ring of Fire Pit,Daily Ops: The Slasher,true
+4157,Paints,,Ranged Weapons,Sole Survivor Paint,Daily Ops (Rare),true
+4158,Paints,,Melee Weapons,Unstoppable Monster Paint,Daily Ops (Rare),true
+4159,C.A.M.P,Furniture,Chairs,Wasteland Loveseat,Daily Ops: The Slasher,true
+4160,Paints,,Ranged Weapons,Whistle in the Dark Paint,Daily Ops (Rare),true
+4161,Mods,Ranged Weapons,Cryolator,Cryolator Cold Surge Muzzle,Sold by Giuseppe (Stamps),true
+4162,Mods,Ranged Weapons,Cryolator,Cryolator Hypothermic Muzzle Mod,Sold by Giuseppe (Stamps),true
+4163,Mods,Ranged Weapons,Cryolator,Cryolator Magazine Mods,Sold by Giuseppe (Stamps),true
+4164,Mods,Ranged Weapons,Cryolator,Cryolator Polar Lobber Mod,Sold by Giuseppe (Stamps),true
+4165,Paints,,Melee Weapons,Gold Shovel Paint,Quest: Disturbed Grave (Repeatable),true
+4166,Clothing,Accessories,Outfits,Pint-Sized Phantom Outfit,Quest: Masked Truth,true
+4167,Paints,,Ranged Weapons,10mm SMG Arctic Paint,Event: Neurological Warfare,true
+4168,Paints,,Ranged Weapons,Compound Bow Burning Love Paint,Event: Tunnel Of Love,true
+4169,Paints,,Ranged Weapons,Crowd Control Paint,Event: Eviction Notice,true
+4170,Paints,,Ranged Weapons,Foundation's Vengeance Paint,Event: Eviction Notice,true
+4171,Paints,,Ranged Weapons,Grand Finale Paint,Event: Seismic Activity,true
+4172,Paints,,Ranged Weapons,MG42 Green Terror Paint,Event: Dangerous Pastimes,true
+4173,Paints,,Ranged Weapons,Gunther's Paint,Event: Most Wanted,true
+4174,Paints,,Ranged Weapons,Love Tap Paint,Event: Tunnel Of Love (bugged: doesn't drop yet),true
+4175,Paints,,Melee Weapons,Molerat Bat Paint,Event: Seismic Activity,true
+4176,Mods,Ranged Weapons,Combat Shotgun,Prime Combat Shotgun Automatic Receiver,Drops from Scorchbeast & Scorchbeast Queen,true
+4177,Mods,Ranged Weapons,Railway Rifle,Prime Railway Rifle Automatic Receiver,Drops from Scorchbeast & Scorchbeast Queen,true
+4178,Mods,Ranged Weapons,Railway Rifle,Prime Railway Shotgun Receiver,Drops from Scorchbeast & Scorchbeast Queen,true
+4179,Paints,,Ranged Weapons,MG42 Red Terror Paint,Event: Dangerous Pastimes,true
+4180,Paints,,Melee Weapons,Shock Baton Paint,Event: Neurological Warfare,true
+4181,Paints,,Melee Weapons,Spear Super Stimpike Paint,Event: Gearin` Up,true
+4182,Paints,,Melee Weapons,The Debilitator Paint,Event: Eviction Notice,true
+4183,Paints,,Ranged Weapons,Ticket to Revenge Paint,Event: Dangerous Pastimes,true
+4184,Paints,,Melee Weapons,Tone Death Paint,Event: Eviction Notice,true
+4185,Paints,,Ranged Weapons,Laser Gun V63-BERTHA,Event: Neurological Warfare,true
+4186,Paints,,Ranged Weapons,Gatling Laser V63-HELGA Paint,Event: Neurological Warfare,true
+4187,Paints,,Ranged Weapons,Laser Gun V63-OLGA Paint,Event: Neurological Warfare,true
+4188,Paints,,Ranged Weapons,Western Spirit Paint,Event: Most Wanted,true
+4189,Paints,,Melee Weapons,Whacker Smacker Paint,Event: Spin The Wheel,true
+4190,C.A.M.P,Decorations,Wall Decor,Pint-Sized Slasher Ad Poster 1,Event: Spooky Scorched (only while wearing Slasher headwear),true
+4191,C.A.M.P,Decorations,Wall Decor,Pint-Sized Slasher Ad Poster 2,Event: Spooky Scorched (only while wearing Slasher headwear),true
+4192,C.A.M.P,Decorations,Wall Decor,Pint-Sized Slasher Ad Poster 3,Event: Spooky Scorched (only while wearing Slasher headwear),true
+4193,C.A.M.P,Decorations,Wall Decor,Pint-Sized Slasher Wanted Poster 1,Event: Mischief Night (Party Crashers),true
+4194,C.A.M.P,Decorations,Wall Decor,Pint-Sized Slasher Wanted Poster 2,Event: Mischief Night (Party Crashers),true
+4195,C.A.M.P,Decorations,Floor Decor,Pint-Sized Slasher Gravestone,The Slasher: Secrets to the Grave (Grave Digging),true
+4196,C.A.M.P,Decorations,Floor Decor,Pint-Sized Slasher Balloon,Infestations: The Slasher (from Slasher Fan bosses),true
+4197,Player,,Photo Frames,Pint-Sized Slasher Photo Frame,Infestations: Out of the Shadows,true
+4198,C.A.M.P,Decorations,Floor Decor,Pint-Sized Slasher Plushie,Infestations: The Slasher (from Slasher Fan bosses),true
+4199,Paints,,Melee Weapons,Pint-Sized Auto Axe Paint,Bounty Hunting: Head Hunt (The Reborn Pint-Sized Slasher),true
+4200,Paints,Armor,Power Armor,Pint-Sized Slasher Power Armor Arms Paint,Bounty Hunting: Head Hunt (The Reborn Pint-Sized Slasher),true
+4201,Paints,Armor,Power Armor,Pint-Sized Slasher Power Armor Helmet Paint,Bounty Hunting: Blood Will Have Blood,true
+4202,Paints,Armor,Power Armor,Pint-Sized Slasher Power Armor Jetpack Paint,Bounty Hunting: Head Hunt (The Reborn Pint-Sized Slasher),true
+4203,Paints,Armor,Power Armor,Pint-Sized Slasher Power Armor Legs Paint,Bounty Hunting: Head Hunt (The Reborn Pint-Sized Slasher),true
+4204,Paints,Armor,Power Armor,Pint-Sized Slasher Power Armor Torso Paint,Bounty Hunting: Head Hunt (The Reborn Pint-Sized Slasher),true
+4205,Paints,,Ranged Weapons,Combat Rifle The Fixer Paint,Mutated Event Packages,true
+4206,Clothing,Pets,Pet Apparel,Atomic Cats Plating (Deathclaw),Challenge: Deathclaw - Reach Level 45,true
+4207,Clothing,Pets,Pet Apparel,Badge Bandana,Challenge: Dog - Reach Level 95,true
+4208,Clothing,Pets,Pet Apparel,Bandana Plaid,Challenge: Dog - Reach Level 45,true
+4209,Clothing,Backpack,Backpacks,Cat Leveling Backpack,Challenge: Cat - Reach Level 160,true
+4210,Clothing,Backpack,Flairs,Cat Leveling Backpack Flair,Challenge: Cat - Reach Level 65,true
+4211,Clothing,Accessories,Headwear,Cat Tamer Helmet,Challenge: Cat - Reach Level 190,true
+4212,Clothing,Accessories,Outfits,Cat Tamer Outfit,Challenge: Cat - Reach Level 190,true
+4213,Clothing,Backpack,Backpacks,Deathclaw Leveling Backpack,Challenge: Deathclaw - Reach Level 160,true
+4214,Clothing,Backpack,Flairs,Deathclaw Leveling Backpack Flair,Challenge: Deathclaw - Reach Level 65,true
+4215,Clothing,Accessories,Headwear,Deathclaw Tamer Helmet,Challenge: Deathclaw - Reach Level 190,true
+4216,Clothing,Backpack,Backpacks,Dog Leveling Backpack,Challenge: Dog - Reach Level 160,true
+4217,Clothing,Backpack,Flairs,Dog Leveling Backpack Flair,Challenge: Dog - Reach Level 65,true
+4218,Clothing,Accessories,Headwear,Dog Tamer Helmet,Challenge: Dog - Reach Level 190,true
+4219,Clothing,Accessories,Outfits,Dog Tamer Outfit,Challenge: Dog - Reach Level 190,true
+4220,Clothing,Pets,Pet Apparel,Gold Nose Ring (Radhog),Challenge: Radhog - Reach Level 95,true
+4221,Clothing,Pets,Pet Apparel,Metallic Plating (Deathclaw),Challenge: Deathclaw - Reach Level 95,true
+4222,Clothing,Pets,Pet Apparel,Patina Nose Ring (Radhog),Challenge: Radhog - Reach Level 45,true
+4223,C.A.M.P,Decorations,Displays,Pint-Sized Slasher Fishing Bobber,Challenge: Collect Even More Pint-Sized Slasher Masks,true
+4224,Mods,Tools,Fishing Rod,Pint-Sized Slasher Bobber,Challenge: Collect Even More Pint-Sized Slasher Masks,true
+4225,C.A.M.P,Decorations,Floor Decor,Pint-Sized Slasher Radio,Challenge: Collect The Remaining Pint-Sized Slasher Masks,true
+4226,Clothing,Backpack,Backpacks,Radhog Leveling Backpack,Challenge: Radhog - Reach Level 160,true
+4227,Clothing,Backpack,Flairs,Radhog Leveling Backpack Flair,Challenge: Radhog - Reach Level 65,true
+4228,Clothing,Accessories,Headwear,Radhog Tamer Helmet,Challenge: Radhog - Reach Level 190,true
+4229,Clothing,Accessories,Outfits,Radhog Tamer Outfit,Challenge: Radhog - Reach Level 190,true
+4230,Clothing,Pets,Pet Apparel,Ruby Leather Collar (Cat),Challenge: Cat - Reach Level 95,true
+4231,Recipes,Consumables,Food,Spicy Eelgrass Soup,Fishing Challenge: Catch the Fall Local Legend Sludge Eye,true
+4232,Clothing,Pets,Pet Apparel,Tan Leather Collar (Cat),Challenge: Cat - Reach Level 45,true
+4233,Paints,,Ranged Weapons,Gauss Rifle Flatliner Paint,Raid: Gleaming Depths,true
+4234,Paints,,Ranged Weapons,Railway Rifle Lickety-Split Paint,Raid: Gleaming Depths,true
+4235,Paints,,Ranged Weapons,Resolve Breaker Paint,Raid: Gleaming Depths (bugged: doesn't drop yet),true
+4236,Paints,,Ranged Weapons,Gatling Laser Valkyrie Paint,Raid: Gleaming Depths,true
+4237,Recipes,Consumables,Food,Cannery Recipe Bundle #1,Sold by Samuel (Gold Bullion),true
+4238,Recipes,Consumables,Food,Cannery Recipe Bundle #2,Sold by Samuel (Gold Bullion),true
+4239,Weapons,Ranged,Machined Guns,Piercing Love,Sold by Mortimer (Gold Bullion),true
+4240,Mods,Melee Weapons,Death Tambo,Barbed,Learn from scrapping: Death Tambo,true
+4241,Mods,Ranged Weapons,10mm Submachine Gun,Reflex Sight (Dot),Learn from scrapping: 10mm SMG,true
+4242,Mods,Melee Weapons,Death Tambo,Sharp,Learn from scrapping: Death Tambo,true
+4243,Unobtainables,Cut Recipe,Plans,Pristine Pint-Sized Phantom Outfit,Cut Plan,false
+4244,Weapons,Ranged,Machined Guns,Combat Rifle,Quest: The Motherlode | Random Weapon Plans | Daily Ops (Rare),true
+4245,Weapons,Ranged,Machined Guns,Cold Shoulder,Sold by Giuseppe (Stamps),true
+4246,Weapons,Ranged,Machined Guns,Splinter,Drops from: The Drifter,true
+4247,Weapons,Ranged,Heavy Guns,Tesla Cannon,Sold by Mortimer (Gold Bullion),true
+4248,Weapons,Ranged,Launchers,Nuka-Launcher,Sold by Minerva (Gold Bullion),true
+4249,Weapons,Ranged,Launchers,Chaos Engine,Drops from: The Drifter,true
+4250,Weapons,Melee,Sharp Weapons,Cosmic Knife,Sold by Giuseppe (Stamps),true
+4251,Weapons,Melee,Sharp Weapons,Head Hunter Scythe,Sold by Giuseppe (Stamps),true
+4252,Weapons,Melee,Sharp Weapons,Hog Splitter,Event: Grahm's Meat-Cook,true
+4253,Weapons,Melee,Sharp Weapons,Tempest,Drops from: The Drifter,true
+4254,Tinker,All,Grenades,Crackler Grenade,Drops from: The Drifter,true
+4255,Armor,Sets,Secret Settler Armor,Secret Settler Helmet,Drops from: The Drifter,true
+4256,Armor,Sets,Secret Settler Armor,Secret Settler Chest Piece,Drops from: The Drifter,true
+4257,Armor,Sets,Secret Settler Armor,Secret Settler Left Arm,Drops from: The Drifter,true
+4258,Armor,Sets,Secret Settler Armor,Secret Settler Right Arm,Drops from: The Drifter,true
+4259,Armor,Sets,Secret Settler Armor,Secret Settler Left Leg,Drops from: The Drifter,true
+4260,Armor,Sets,Secret Settler Armor,Secret Settler Right Leg,Drops from: The Drifter,true
+4261,Clothing,Accessories,Outfits,Head Hunter Outfit,Bounty Hunting Challenge: Complete All Head Hunt Groups,true
+4262,Clothing,Accessories,Outfits,Rust Raider Heavy Outfit,Quest: Insurrection,true
+4263,Clothing,Accessories,Outfits,Rust Raider Medium Outfit,Quest: Might Makes Right,true
+4264,Clothing,Accessories,Outfits,Abraxodyne Coveralls Outfit,Abraxodyne Intel Briefcase Reward (50 Collected),true
+4265,Paints,Armor,Power Armor,Father Winter Paint,Learn from scrapping: Father Winter Helmet,true
+4266,Paints,,Ranged Weapons,Minigun Bats Paint,Event: Mischief Night,true
+4267,Mods,Ranged Weapons,Tesla Cannon,Tesla Cannon Alternate Current Muzzle Mod,Sold by Mortimer (Gold Bullion),true
+4268,Mods,Ranged Weapons,Tesla Cannon,Tesla Cannon Direct Current Muzzle Mod,Sold by Mortimer (Gold Bullion),true
+4269,Mods,Ranged Weapons,Tesla Cannon,Tesla Cannon Barrel Mods,Sold by Mortimer (Gold Bullion),true
+4270,Mods,Ranged Weapons,Tesla Cannon,Tesla Cannon Magazine Mods,Sold by Mortimer (Gold Bullion),true
+4271,Mods,Ranged Weapons,Tesla Cannon,Tesla Cannon Receiver Mods,Sold by Mortimer (Gold Bullion),true
+4272,Mods,Ranged Weapons,Tesla Cannon,Tesla Cannon Sight Mods,Sold by Mortimer (Gold Bullion),true
+4273,Mods,Melee Weapons,Hog Splitter,Hog Splitter Electrified,Event: Grahm's Meat-Cook,true
+4274,Mods,Melee Weapons,Hog Splitter,Hog Splitter Saw-Bladed,Event: Grahm's Meat-Cook,true
+4275,Mods,Melee Weapons,Hog Splitter,Hog Splitter Spiked,Event: Grahm's Meat-Cook,true
+4276,Mods,Melee Weapons,Hog Splitter,Poisoned Hog Splitter,Event: Grahm's Meat-Cook,true
+4277,Mods,Ranged Weapons,Radium Rifle,Aligned Long Barrel,Learn from scrapping: Radium Rifle,true
+4278,Mods,Ranged Weapons,Radium Rifle,Aligned Short Barrel,Learn from scrapping: Radium Rifle,true
+4279,Mods,Ranged Weapons,Radium Rifle,Aligned Stock,Learn from scrapping: Radium Rifle,true
+4280,Mods,Ranged Weapons,Radium Rifle,Bruising Stock,Learn from scrapping: Radium Rifle,true
+4281,Mods,Ranged Weapons,Radium Rifle,Forceful Stock,Learn from scrapping: Radium Rifle,true
+4282,Mods,Ranged Weapons,Radium Rifle,Precise Stock,Learn from scrapping: Radium Rifle,true
+4283,Mods,Ranged Weapons,Radium Rifle,Stabilized Long Barrel,Learn from scrapping: Radium Rifle,true
+4284,Mods,Ranged Weapons,Radium Rifle,Stabilized Short Barrel,Learn from scrapping: Radium Rifle,true
+4285,Mods,Ranged Weapons,Radium Rifle,Stabilized Stock,Learn from scrapping: Radium Rifle,true
+4286,Mods,Ranged Weapons,Radium Rifle,True Long Barrel,Learn from scrapping: Radium Rifle,true
+4287,Mods,Ranged Weapons,Radium Rifle,True Short Barrel,Learn from scrapping: Radium Rifle,true
+4288,Mods,Ranged Weapons,Radium Rifle,True Stock,Learn from scrapping: Radium Rifle,true
+4289,Mods,Ranged Weapons,MG42 Light Machine Gun,Long Barrel,Learn from scrapping: MG42 Light Machine Gun,true
+4290,Mods,Ranged Weapons,MG42 Light Machine Gun,Stub Barrel,Learn from scrapping: MG42 Light Machine Gun,true
+4291,Mods,Ranged Weapons,MG42 Light Machine Gun,Standard .45 Receiver,Learn from scrapping: MG42 Light Machine Gun,true
+4292,Mods,Ranged Weapons,MG42 Light Machine Gun,Large Magazine,Learn from scrapping: MG42 Light Machine Gun,true
+4293,Mods,Ranged Weapons,MG42 Light Machine Gun,Stabilized Stock,Learn from scrapping: MG42 Light Machine Gun,true
+4294,Mods,Ranged Weapons,MG42 Light Machine Gun,Bruising Stock,Learn from scrapping: MG42 Light Machine Gun,true
+4295,Mods,Ranged Weapons,Syringer,Long Scope,Learn from scrapping: Syringer,true
+4296,Mods,Ranged Weapons,Syringer,Long Recon Scope,Learn from scrapping: Syringer,true
+4297,Mods,Ranged Weapons,Syringer,Short Recon Scope,Learn from scrapping: Syringer,true
+4298,Mods,Ranged Weapons,Syringer,Syringer Medium NV Scope,Sold by Responder & Brotherhood Vendors,true
+4299,Mods,Ranged Weapons,Syringer,Syringer Short NV Scope,Sold by Responder & Brotherhood Vendors,true
+4300,Mods,Ranged Weapons,Pump-Action Shotgun,Tuned Receiver,Learn from scrapping: Pump-Action Shotgun,true
+4301,Mods,Ranged Weapons,Pipe Bolt-Action,Standard Glow Sights,Learn from scrapping: Pipe Bolt-Action,true
+4302,Mods,Ranged Weapons,Gauss Rifle,Shielded Barrel,Learn from scrapping: Gauss Rifle,true
+4303,Mods,Ranged Weapons,Cremator,Large Propellant Tank,Learn from scrapping: Cremator,true
+4304,Mods,Tools,Fishing Rod,Babydoll Head Bobber,Fishing Challenge: Catch All Regional Fish - Burning Springs,true
+4305,C.A.M.P,Utilities,Resources,Cobby Collectron,Sold by Samuel (Gold Bullion),true
+4306,C.A.M.P,Utilities,Resources,Scoutmaster Collectron,Sold by Samuel (Gold Bullion),true
+4307,C.A.M.P,Utilities,Resources,Whitespring Robo Butler Collectron,Sold by Samuel (Gold Bullion),true
+4308,C.A.M.P,Utilities,Resources,Mr. Farmhand Collectron,Sold by Samuel (Gold Bullion),true
+4309,C.A.M.P,Utilities,Resources,Espresso Machine,Sold by Samuel (Gold Bullion),true
+4310,C.A.M.P,Utilities,Resources,Beehive (Black & Yellow),Sold by Samuel (Gold Bullion),true
+4311,C.A.M.P,Utilities,Resources,Gold Scavenge Bot,Sold for Gold Bullion,true
+4312,C.A.M.P,Utilities,Resources,Crashed Cargo Bot,Sold for Gold Bullion (Season 23 reward),true
+4313,C.A.M.P,Utilities,Resources,Rip Daring's Survival Cache,Sold for Gold Bullion (Season 24 reward),true
+4314,C.A.M.P,Utilities,Resources,Chem Mystery Machine,Sold by Mortimer (Gold Bullion),true
+4315,C.A.M.P,Utilities,Resources,Pemmican Collector,Sold by Mortimer (Gold Bullion),true
+4316,C.A.M.P,Utilities,Resources,SoulSoup Server,Sold by Mortimer (Gold Bullion),true
+4317,C.A.M.P,Utilities,Generators,Aerial Turbine,Bounty Hunting Challenge: Complete Grunt Hunts (250),true
+4318,C.A.M.P,Utilities,Crafting,Beer Keg,Challenge: Craft different types of alcohol,true
+4319,C.A.M.P,Utilities,Stash Boxes,Blue Car Stash Box,Bounty Hunting Challenge: Complete Grunt Hunts (100),true
+4320,C.A.M.P,Utilities,Stash Boxes,Green Car Stash Box,Bounty Hunting Challenge: Start Head Hunts,true
+4321,C.A.M.P,Utilities,Stash Boxes,Red Car Stash Box,Bounty Hunting Challenge: Complete Head Hunts (250),true
+4323,C.A.M.P,Furniture,Chairs,Blue Car Couch,Bounty Hunting Challenge: Kill Bounties from Group 7,true
+4324,C.A.M.P,Furniture,Chairs,Red Car Couch,Bounty Hunting Challenge: Complete Head Hunts (10),true
+4325,C.A.M.P,Furniture,Appliances,Beer Pump,Bounty Hunting Challenge: Kill Bounties from Group 2,true
+4326,C.A.M.P,Furniture,Shelves,Magazine Rack,Sold by Brotherhood Vendors,true
+4327,C.A.M.P,Building,Lights,Car Grill Lights,Bounty Hunting Challenge: Kill Bounties from Group 6,true
+4328,C.A.M.P,Decorations,Allies,Dottie,Sold by Samuel (Gold Bullion),true
+4329,C.A.M.P,Decorations,Misc. Structures,Bounty Board,Bounty Hunting Challenge: Kill Bounties from Group 1,true
+4330,C.A.M.P,Decorations,Misc. Structures,Head Hunt Flare,Bounty Hunting Challenge: Start Head Hunts,true
+4331,C.A.M.P,Decorations,Misc. Structures,Token Dispenser,Nuka-Cade Prize Terminal,true
+4332,C.A.M.P,Decorations,Misc. Structures,Healing Arch,Sold by Samuel (Gold Bullion),true
+4333,C.A.M.P,Decorations,Floor Decor,Lone Mechanic Statue,Bounty Hunting Challenge: Complete Bounty Hunts at these Locations,true
+4334,C.A.M.P,Decorations,Floor Decor,Persian Rug,Sold by Burning Springs Vendors,true
+4335,C.A.M.P,Decorations,Floor Decor,Phoropter,Sold by Samuel (Gold Bullion),true
+4336,C.A.M.P,Decorations,Wall Decor,C.A.M.P. Certification,Quest: Enjoy Your Stay,true
+4337,C.A.M.P,Decorations,Displays,Makeshift Rod Replica,Fishing Challenge: Catch 76 Glowing Fish,true
+4338,C.A.M.P,Decorations,Displays,Skyline Valley Snow Globe Display Case,Sold by Samuel (Gold Bullion),true
+4339,Tinker,Decorations,Souvenirs,Herdsman's Bell - Basic,Event: Fasnacht Day,true
+4340,Recipes,Consumables,Food,Jellied Fish,Fishing Challenge: Catch the Summer Local Legend Glass Ghost,true
+4341,Recipes,Consumables,Food,Pickled Prickeye,Challenge: Cook a Meal that uses Prickeye,true
+4342,Recipes,Consumables,Food,Moo-Moo Curd,Event: Grahm's Meat-Cook,true
+4343,Recipes,Consumables,Food,Pickled Pumpkin,Event: Grahm's Meat-Cook,true
+4344,C.A.M.P,Utilities,Crafting,Fermenting Station,Quest: Wasted on Nukashine,true
+4345,C.A.M.P,Decorations,Wall Decor,Abraxodyne Sign,Abraxodyne Intel Briefcase Reward (76 Collected),true
+4346,Mods,Ranged Weapons,Broadsider,Heavy Barrel,Learn from scrapping: Broadsider,true

@@ -479,8 +479,24 @@ a_id,outfit_name,craftable,plan_name,rarity,type
 481,Fasnacht Glowing Sun Mask,false,,Rare,Headwear
 482,Deathclaw Tamer Hat,false,,Uncommon,Headwear
 483,Deathclaw Tamer Outfit,false,,Uncommon,Headwear
-484,Nuclear Winter Beanie,false,,Uncommon,Headwear
+484,Nuclear Winter Beanie,true,Plan: Nuclear Winter Beanie,Uncommon,Headwear
 485,Rust raider heavy outfit,true,,Uncommon,Outfit
 486,Rust raider medium outfit,true,,Uncommon,Outfit
 487,Rust raider light outfit,true,,Uncommon,Outfit
-488,Abraxodyne Overalls Outfit,true,,Rare,Outfit
+488,Abraxodyne Coveralls Outfit,true,,Rare,Outfit
+489,Pint-Sized Slasher Hat - Blue,true,Plan: Pint-Sized Slasher Hat - Blue,,Headwear
+490,Pint-Sized Slasher Hat - Green,true,Plan: Pint-Sized Slasher Hat - Green,,Headwear
+491,Pint-Sized Slasher Hat - Orange,true,Plan: Pint-Sized Slasher Hat - Orange,,Headwear
+492,Pint-Sized Slasher Hat - Red,true,Plan: Pint-Sized Slasher Hat - Red,,Headwear
+493,Pint-Sized Phantom Outfit,true,Plan: Pint-Sized Phantom Outfit,,Outfit
+494,Cat Tamer Helmet,true,,,Headwear
+495,Cat Tamer Outfit,true,,,Outfit
+496,Deathclaw Tamer Helmet,true,,,Headwear
+497,Dog Tamer Helmet,true,,,Headwear
+498,Dog Tamer Outfit,true,,,Outfit
+499,Radhog Tamer Helmet,true,,,Headwear
+500,Radhog Tamer Outfit,true,,,Outfit
+501,Ghillie Suit,true,Plan: Ghillie Suit,,Outfit
+502,Ghillie Suit Hood,true,Plan: Ghillie Suit Hood,,Headwear
+503,Nuclear Winter Letterman Jacket,true,Plan: Nuclear Winter Letterman Jacket,,Outfit
+504,Head Hunter Outfit,true,Plan: Head Hunter Outfit,,Outfit
